@@ -1,0 +1,4107 @@
+word,average
+(hujan) gerimis,0.1
+(warna) dadu,0.3
+Agustus,0.5
+Ahad,0.3
+Amin,0.5
+BENAR,0.5
+Bagikan,0.5
+Bangsawan tinggi,0.5
+Bir,0.5
+Campuran,0.25
+Cantik,0.5
+Countess,0.5
+Cuka Apel,0.5
+Dewan,0.5
+Direktur,0.5
+Fajar,0.5
+Gula,0.5
+Himpunan,0.5
+Hore,0.5
+Ikuti,0.5
+Injil,0.5
+Iya,0.5
+Kalkulator,0.5
+Kapten,0.5
+Katedral,0.5
+Kecantikan,0.5
+Kemuliaan,0.5
+Kepala Sekolah,0.5
+Konvensi,0.5
+Mandarin,0.5
+Memesan,0.5
+Monumen,0.5
+Nikmati,0.5
+POLISI,0.5
+Pasifik,0.5
+Pasokan,0.5
+Pembenahan,0.5
+Penghargaan,0.5
+Penyihir,0.5
+Perdana,0.5
+Perpustakaan,0.5
+Polandia,0.5
+Praktik,0.5
+Presiden,0.5
+Renaisans,0.5
+Roh,0.5
+Sage,0.5
+Sebagai pengganti,0.5
+Sepakat,0.5
+Sri paduka,0.4
+Sup,0.5
+Tuhan,0.5
+Universitas,0.5
+Yang Dipertuan,0.4
+Yobel,0.5
+aamiin,0.2
+ab,0.3
+aba,0.2
+abadi,0.2833333333333333
+abah,0.3
+abba,0.5
+abi,0.2
+abid,0.3
+absolusi,0.5
+absorpsi,0.09999999999999999
+accueil,0.5
+acuh tak acuh,0.05000000000000002
+ada,0.05000000000000002
+adab,0.3
+adakala,0.3
+adanya,0.5
+adaptasi,0.2
+adi,0.2
+adika,0.5
+adil,0.1444444444444445
+adiluhung,0.3
+administrator,0.3
+aduhai,0.4
+adzan,0.3
+afair,0.3
+afdal,0.3
+afirmasi,0.4
+agam,0.5
+agung,0.25
+ahli,0.5
+ahli agama,0.1
+ahli astronomi,0.5
+ahli bahasa,0.1
+ahli kimia,0.5
+ahli nujum,0.5
+aja,0.1
+ajaib,0.5
+ajak,0.1
+aji,0.05000000000000002
+ajojing,0.3
+ajudan,0.4
+akademi,0.5
+akademik,0.5
+akal,0.5
+akan datang,0.5
+akhirnya,0.3333333333333333
+akhlak,0.4
+akil,0.4
+akomodasi,0.4
+akrab,0.4
+akrobat,0.5
+akses,0.2
+aksi,0.2
+aktiva,0.5
+aktivasi,0.2
+aktual,0.4
+aku,0.05
+akuntabel,0.5
+alaikum,0.2
+alam,0.05
+alamat,0.25
+alangkah,0.1
+alasan,0.125
+album,0.04999999999999999
+alegro,0.5
+alhamdulilah,0.3
+alhamdulillah,0.5
+alih generasi,0.4
+alim,0.2
+alim arif,0.4
+alkitabiah,0.5
+allah,0.5
+aloha,0.5
+alot,0.1
+amal,0.45
+amalan,0.4
+aman,0.5
+amanah,0.5
+amat,0.45
+ambilan,0.3
+ambisi,0.45
+amerta,0.3
+amnesti,0.5
+ampas (kopi),0.04999999999999999
+amplop,0.3
+anak Adam,0.3
+anak anjing,0.25
+anak didik,0.3
+anak kucing,0.5
+anak muda,0.5
+anak perempuan,0.5
+anak sapi,0.5
+anak sasian,0.3
+anak sekolah,0.3
+anak sungai,0.16666666666666666
+anakan,0.5
+analis,0.5
+analisis,0.4
+andai,0.2
+andal,0.2
+andalan,0.5
+andil,0.4
+andini,0.2
+andur,0.3
+aneka,0.3
+angan,0.3
+angan-angan,0.4
+anggapan,0.3
+anggar,0.3
+angguk,0.1
+anggun,0.5
+angka,0.125
+angkat,0.3
+angkut,0.1
+angpau,0.4
+angsur,0.1
+animasi,0.25
+animo,0.4
+anjung,0.4
+ansambel,0.5
+ansar,0.4
+anteng,0.4
+anti peluru,0.5
+antibiotik,0.5
+antijamur,0.5
+antik,0.5
+antiseptik,0.5
+antisipasi,0.09999999999999999
+antologi,0.1
+antusiasme,0.4
+anugerah,0.23333333333333334
+anyar,0.4
+apas,0.1
+api,0.0111111111111111
+apresiasi,0.5
+arabika,0.2
+arak,0.2
+arif,0.4
+aristokrasi,0.5
+arkeologi,0.25
+arketipe,0.3
+aroma,0.25
+arsitektur,0.2
+arti,0.1
+artian,0.3
+artifisial,0.3
+artikulasi,0.25
+artis,0.18333333333333335
+artistik,0.23333333333333334
+arung,0.1
+asa,0.04999999999999999
+asah asih asuh,0.2
+asih,0.09999999999999999
+asik,0.4
+asket,0.2
+asketisme,0.2
+asli,0.2
+asoi,0.3
+aspirasi,0.5
+asrama,0.3
+asri,0.05000000000000002
+assalamualaikum,0.3
+astronaut,0.5
+asuh,0.04999999999999999
+atasan,0.3
+atensi,0.2
+atlet,0.25
+atletis,0.25
+atom,0.275
+atraktif,0.1
+aura,0.5
+autentik,0.4
+avatar,0.5
+awat,0.5
+awet,0.4
+ay,0.5
+aya,0.3
+ayahanda,0.1
+ayo,0.4
+azamat,0.4
+aziz,0.2
+babaran,0.3
+babe,0.3
+baby,0.2
+baca,0.09999999999999999
+badut,0.5
+bagak,0.5
+bagas,0.5
+bagus,0.09999999999999998
+bagus sekali,0.5
+bagusan,0.2
+bahadur,0.5
+bahaduri,0.4
+bahagia,0.26666666666666666
+bahas,0.2
+bahasan,0.1
+bahenol,0.5
+bahu,0.5
+baik,0.23333333333333334
+baik-baik,0.09999999999999999
+baiklah,0.2
+baiknya,0.1
+bain,0.04999999999999999
+bajik,0.4
+baju,0.2
+baju zirah,0.5
+bakat,0.26666666666666666
+bakh,0.4
+bakir,0.4
+baksis,0.2
+bakti,0.4
+bala bantuan,0.25
+balasan,0.3
+balet,0.5
+balok,0.5
+balsem,0.25
+banget,0.1
+bangga,0.4
+bangkit selera,0.3
+bangsawan,0.1333333333333333
+bangunan,0.25
+bantah-bantah,0.5
+bantal,0.5
+bantalan,0.275
+bantuan,0.25
+bantuin,0.3
+banyak,0.03333333333333334
+banyak akal,0.3
+banyaknya,0.3
+banyolan,0.3
+bapa,0.3
+bapanda,0.3
+bapang,0.3
+baptisan,0.5
+baring,0.2
+batasan,0.3
+batu delima,0.5
+batu tulis,0.5
+batuan dasar,0.5
+bausuku,0.3
+bawaan,0.09999999999999999
+bayang,0.2
+bayang-bayang,0.3
+bayangan,0.3
+bayangkara,0.3
+bayi,0.1
+beasiswa,0.25
+beber,0.04999999999999999
+bebodoran,0.2
+bedegap,0.04999999999999999
+begitu banyak,0.5
+bekal,0.3
+bekerja,0.16666666666666666
+bekerja sama,0.3333333333333333
+belagu,0.4
+belajar,0.4
+belanja,0.1333333333333333
+belas kasihan,0.5
+belasungkawa,0.5
+belok,0.3
+beludru,0.5
+belukar,0.3
+benang raja,0.4
+benar,0.09999999999999998
+benar-benar,0.2
+bendera,0.1
+bener,0.09999999999999999
+beneran,0.3
+benteng pertahanan,0.5
+bentuk,0.4
+bentukan,0.3
+bentur,0.1
+bepergian,0.175
+berada,0.4
+beradab,0.5
+berafiliasi,0.5
+berakal,0.4
+berakar,0.1333333333333333
+berakibat,0.3
+berakidah,0.4
+beralas,0.4
+beranak,0.3
+beranak-pinak,0.2
+berani,0.3333333333333333
+beraras,0.4
+berarti,0.1
+beraturan,0.4
+berbagai,0.3
+berbagai macam,0.3
+berbagi,0.2
+berbahagia,0.15000000000000002
+berbakat,0.21111111111111114
+berbaring,0.25
+berbaris,0.5
+berbenak,0.3
+berbentuk,0.3
+berbetulan,0.3
+berbobot,0.2
+berbuah,0.2
+berbudi luhur,0.5
+berbudi pekerti yang baik,0.3
+berbulu halus,0.5
+berbunga,0.3
+berbunga-bunga,0.5
+berbusana,0.4
+bercahaya,0.4
+berceloteh,0.04999999999999999
+bercermin,0.4
+bercinta,0.25
+bercita rasa,0.3
+bercita-cita,0.5
+berdagang,0.3
+berdandan,0.4
+berdarah murni,0.5
+berdaya,0.3
+berdaya guna,0.4
+berdendang,0.4
+berderajat,0.4
+berdiam,0.05000000000000002
+berdisiplin,0.4
+berdoa,0.2
+berdua,0.1
+berduit,0.4
+beredar,0.2
+berembuk,0.3
+berenang,0.5
+berfaedah,0.4
+bergairah,0.16666666666666669
+bergamat,0.4
+bergantung,0.2
+bergas,0.15
+bergaya modern,0.5
+bergelut,0.04999999999999999
+bergembira sekali,0.5
+bergeming,0.1
+bergengsi,0.4
+bergerak,0.125
+bergigi,0.3
+bergizi,0.25
+bergolongan,0.4
+berguna,0.3333333333333333
+berguru,0.3
+berhajat,0.2
+berharap,0.05000000000000002
+berharga,0.4
+berharta,0.4
+berhasil,0.4
+berhasrat,0.4
+berhati-hati,0.04999999999999999
+berhias,0.5
+berhikmah,0.2
+berhuruf,0.5
+beribadat,0.05000000000000002
+berikhtiar,0.3
+beriktikad,0.2
+berilmu,0.4
+beriman,0.3
+berimbas,0.3
+berimbuh,0.1
+berimprovisasi,0.5
+berinovasi,0.5
+berirama,0.45
+beristirahat,0.04999999999999999
+berjaga-jaga,0.1
+berjasa,0.4
+berjaya,0.45
+berjenis-jenis,0.3
+berjilbab,0.3
+berjiwa,0.3
+berjunjungan,0.4
+berkaca,0.4
+berkah,0.45
+berkait,0.3
+berkaitan,0.3
+berkandung,0.5
+berkarya,0.3
+berkat,0.1
+berkategori,0.4
+berkawal,0.4
+berkecambah,0.3
+berkecukupan,0.4
+berkedudukan,0.4
+berkegiatan,0.4
+berkeinginan,0.3
+berkekuatan,0.5
+berkembang,0.25
+berkenaan,0.4
+berkenan,0.2
+berkepercayaan,0.4
+berkeras hati,0.05000000000000002
+berkesesuaian,0.3
+berketurunan,0.2
+berkeyakinan,0.3
+berkhasiat,0.4
+berkilau,0.16666666666666666
+berkilauan,0.5
+berkinte,0.3
+berkobar-kobar,0.1
+berkualitas,0.4
+berkuasa,0.4
+berkukuh,0.2
+berlaba,0.4
+berlagak,0.4
+berlagu,0.4
+berlangganan,0.016666666666666677
+berlanglang,0.4
+berlangsung mudah,0.5
+berlarasan,0.3
+berlatih,0.4
+berlevel,0.4
+berlezat,0.2
+berlian,0.25
+berlibat,0.3
+berlilit,0.3
+berlimpah,0.175
+bermacam-macam,0.3
+bermakna,0.4
+bermanfaat,0.4285714285714286
+bermartabat,0.45
+bermaslahat,0.2
+bermentega,0.5
+bermohon,0.04999999999999999
+bermohon diri,0.2
+bermutu,0.09999999999999999
+bernafsu,0.3
+bernama,0.4
+bernapaskan,0.3
+bernilai,0.35
+bernyali,0.1
+bernyali besar,0.09999999999999999
+bernyanyi,0.2
+beroleh,0.3
+berotak tajam,0.4
+berotot,0.5
+berpacangan,0.3
+berpakaian,0.4
+berpamor,0.3
+berpandangan,0.1
+berparade,0.1
+berpartisipasi,0.3
+berpasrah,0.04999999999999999
+berpatokan,0.4
+berpatroli,0.4
+berpaut,0.3
+berpedoman,0.4
+berpegang,0.4
+berpelajaran,0.4
+berpelukan,0.5
+berpembawaan,0.1
+berpendar,0.25
+berpendidikan,0.4
+berpengalaman,0.26666666666666666
+berpengaruh,0.2
+berpengetahuan,0.4
+berperan serta,0.2
+berperingkat,0.4
+berpilin,0.3
+berpiuh,0.3
+berpola,0.4
+berprakarsa,0.3
+berpulas,0.3
+berpunya,0.4
+berputra,0.3
+bersagang,0.4
+bersahabat,0.2
+bersahaja,0.375
+bersaji,0.4
+bersalin,0.3
+bersama,0.3
+bersamamu,0.3
+bersambang,0.4
+bersangga,0.4
+bersanggama,0.15
+bersangkutan,0.5
+bersarang,0.25
+bersauh,0.4
+bersaur,0.3
+bersayap,0.4
+bersekolah,0.3
+berseluk,0.3
+bersemangat,0.21111111111111114
+bersemayam,0.05000000000000002
+bersembahyang,0.1
+bersemi,0.3
+bersenandung,0.4
+bersenang-senang,0.3333333333333333
+bersenda gurau,0.04999999999999999
+bersendel,0.4
+bersendeng,0.4
+bersender,0.4
+bersengat,0.5
+berseni,0.4
+berseri,0.45
+berseri-seri,0.5
+bersesuaian,0.3
+bersetuju,0.3
+bersiap,0.1
+bersifat mendidik,0.5
+bersih,0.25
+bersimpati,0.4
+bersinar,0.3666666666666667
+bersorak,0.5
+berstatus,0.4
+bersuka cita,0.5
+bersuka ria,0.5
+bersulur,0.3
+bersumber,0.4
+bersumpah,0.5
+bersungguh-sungguh,0.15000000000000002
+bersyukur,0.5
+bertahan,0.05555555555555555
+bertahan hidup,0.16666666666666666
+bertakwa,0.4
+bertambatan,0.3
+bertanduk,0.04999999999999999
+bertanggung jawab,0.5
+bertanya,0.2
+bertanya-tanya,0.05000000000000002
+bertaraf,0.3
+bertaruk,0.3
+berteduh,0.04999999999999999
+berteguh hati,0.4
+bertekad,0.5
+bertekan,0.1
+bertekun,0.4
+bertelinga merah,0.05000000000000002
+berteman,0.1
+bertemu,0.2
+bertenaga,0.5
+bertenggang,0.3
+bertepat guna,0.4
+bertepatan,0.3
+berterima kasih,0.5
+bertransaksi,0.3
+bertunangan,0.13333333333333333
+bertunas,0.04999999999999999
+bertundangan,0.3
+bertuntun,0.04999999999999999
+beruntung,0.45
+beruntutan,0.3
+berupaya,0.3
+berusaha keras,0.5
+berwibawa,0.4
+berwujud,0.2
+berzikir,0.05000000000000002
+besar,0.15000000000000002
+besar akal,0.4
+besar hati,0.3
+besar lengan,0.04999999999999999
+besar-besaran,0.3
+bestari,0.4
+betapa,0.4
+better,0.05
+bianglala,0.4
+biarawan,0.16666666666666666
+bicara,0.5
+bidasan,0.3
+biduanda,0.5
+bijak,0.13333333333333333
+bijaksana,0.06666666666666665
+bilas,0.1
+bilhak,0.3
+binar,0.5
+bincang,0.2
+bineka,0.3
+binen,0.3
+bingkis,0.4
+bingkisan,0.4
+bintang,0.3333333333333333
+birthday,0.4
+bisa dipertahankan,0.5
+bisikan,0.1
+bismillah,0.4
+bisnis,0.3
+bola api,0.5
+bola basket,0.5
+boleh,0.2
+bolehan,0.4
+bonafide,0.3
+bonne,0.5
+bonus,0.2
+bonyok,0.5
+booking,0.2
+borong,0.05
+bos,0.3
+brokat,0.04999999999999999
+buaian,0.4
+buat,0.1
+buatan,0.3
+bubuh,0.4
+budak,0.07500000000000001
+budaya,0.5
+budi pekerti yang baik,0.3
+budiman,0.4
+bugar,0.4
+bujang,0.4
+bukan main,0.4
+buket,0.5
+buku harian,0.5
+buku panduan,0.5
+bulan madu,0.5
+bulang,0.3
+bulat kata,0.3
+buldog,0.5
+bumbu,0.5
+bumbung,0.3
+bunga,0.16666666666666669
+bungkusan,0.4
+buntut,0.1
+bunyi,0.05
+bupati,0.5
+buruan,0.1
+busana,0.2
+buyung,0.4
+cabang,0.16666666666666666
+cadangan,0.2
+cahaya,0.5
+cahaya bintang,0.5
+cahaya matahari,0.5
+cahaya redup,0.5
+cakep,0.2
+cakrawala,0.25
+calon,0.25
+campur,0.5
+candang,0.2
+candrasa,0.3
+canggih,0.5
+cantik,0.016666666666666663
+cantum,0.4
+capaian,0.4
+care,0.2
+cari ilmu,0.4
+cash,0.2
+catu,0.4
+cawis,0.2
+cebak,0.3
+cedok,0.3
+cegar,0.4
+cekel,0.4
+cekikikan,0.5
+celengan,0.3
+cemerlang,0.26666666666666666
+cempiang,0.3
+cenangkas,0.3
+cendera,0.4
+cendera mata,0.4
+cengkauan,0.3
+cengkeraman,0.1
+centil,0.1
+cepat,0.06250000000000001
+cepet,0.2
+cerah,0.5
+cerapan,0.3
+cerdas,0.3333333333333333
+cerdik,0.26666666666666666
+ceri,0.45
+ceria,0.26666666666666666
+ceritanya,0.2
+cermin,0.3
+cerminan,0.3
+challenge,0.2
+chat,0.3
+check,0.1
+cicip,0.3
+cindur mata,0.4
+cinta,0.23333333333333334
+cinta kasih,0.2
+cintai,0.4
+cintaku,0.4
+cintamu,0.3
+cintrong,0.05
+ciptaan,0.3
+cita rasa,0.3
+citra,0.2
+cium telapak kaki,0.1
+ciuman,0.1
+ciyeee,0.1
+coba,0.05
+cocok,0.033333333333333354
+coffee,0.2
+cokelat,0.25
+comel,0.15000000000000002
+congrats,0.3
+cool,0.2
+coret,0.05
+coretan,0.05
+couple,0.2
+cover,0.3
+crescendo,0.5
+cublik,0.4
+cucu,0.5
+cucu Adam,0.3
+cuma-cuma,0.4
+cumil,0.4
+cute,0.2
+cuti,0.04999999999999999
+dadak,0.3
+daftar periksa,0.5
+dagel,0.3
+dagelan,0.3
+dahulu,0.05
+daim,0.3
+dakaik,0.3
+dakwa,0.3
+dalam,0.3
+damar,0.4
+dambaan,0.3
+damping,0.1
+dana,0.4
+dandan,0.4
+dansa,0.3
+dapat diakses,0.5
+dapat diandalkan,0.5
+dapat dibuktikan,0.5
+dapat dicapai,0.5
+dapat dikreditkan,0.5
+dapat dinavigasi,0.5
+dapat dipasarkan,0.5
+dapat disembuhkan,0.5
+dapat diterima,0.5
+dapatkan,0.2
+dapet,0.2
+darah,0.15000000000000002
+dasar,0.25
+datar,0.3
+dateng,0.2
+daulat,0.4
+daya cipta,0.4
+daya gabung,0.4
+daya guna,0.4
+daya hidup,0.5
+daya konduksi,0.5
+daya pikir,0.04999999999999999
+daya tahan,0.5
+daya tarik,0.4
+dear,0.2
+debat,0.3
+debuk,0.3
+dede,0.1
+dedengkot,0.04999999999999999
+dedikasi,0.5
+deduksi,0.3
+defensif,0.4
+definisi,0.3
+definit,0.2
+definitif,0.5
+degap,0.3
+deket,0.1
+dekorasi,0.5
+delusi,0.3
+demokrasi,0.5
+demonstratif,0.5
+denda,0.3
+dendam berahi,0.04999999999999999
+dendang,0.2
+dengan hati-hati,0.25
+dengan kuat,0.5
+dengan murah hati,0.5
+dengan rendah hati,0.5
+dengan santai,0.5
+dengan senang hati,0.5
+dengan tegas,0.375
+dengar,0.2
+dengar pendapat,0.3
+dengerin,0.3
+depan,0.125
+dependen,0.3
+deposito,0.3
+derajat,0.5
+derauan,0.3
+deres,0.1
+dermawan,0.375
+desain,0.4
+desakan,0.4
+desinfeksi,0.5
+deskriptif,0.5
+detail,0.2
+detailnya,0.1
+deteksi,0.5
+determinasi,0.3
+dewana,0.3
+dewasa,0.2
+di depan,0.16666666666666666
+diajak,0.1
+diam,0.016666666666666663
+diamond,0.3
+diampuni,0.5
+dibalas,0.2
+dibantu,0.2
+dibayar,0.3
+dibenarkan,0.5
+diberikan,0.5
+diberkahi,0.5
+diberkati,0.5
+dibudidayakan,0.5
+dicatat,0.5
+dicoba,0.2
+dicuekin,0.1
+didukung,0.5
+digdaya,0.4
+dihati,0.3
+diinginkan,0.5
+dikara,0.3
+dikasih,0.2
+dikenali,0.25
+dikirim,0.2
+dikonfirmasi,0.4
+dikreditkan,0.5
+dikte,0.3
+dilegalkan,0.5
+dimanifestasikan,0.5
+dimiliki,0.1
+dimulai,0.1
+dimulainya kembali,0.5
+dinamika,0.3
+dingin,0.019047619047619063
+dipantau,0.2
+diperbolehkan,0.5
+diperoleh,0.5
+diplomatik,0.5
+dipoles,0.5
+dipopulerkan,0.5
+dipraktekkan,0.5
+diproses,0.1
+dipuji,0.5
+diramalkan,0.5
+direktur,0.3
+diremajakan,0.5
+disarankan,0.1
+disebutkan di atas,0.5
+disengaja,0.125
+diskaun,0.3
+diskon,0.2
+diskresi,0.5
+diskusi,0.5
+dispensasi,0.3
+distilasi,0.5
+distingtif,0.4
+distribusi,0.3
+ditahbiskan,0.5
+ditandai,0.5
+ditemukan,0.5
+diterima,0.225
+ditingkatkan,0.25
+ditunggu,0.2
+diukur,0.5
+diva,0.2
+diverifikasi,0.5
+diwakili,0.5
+doain,0.2
+dodor,0.3
+dok,0.4
+dokter,0.5
+dol,0.3
+dominasi,0.024999999999999994
+donatur,0.3
+dongeng,0.09999999999999999
+donor,0.3
+drama ria,0.3
+drum,0.2
+dua bahasa,0.5
+duet,0.15
+duga,0.09999999999999999
+dukung,0.4
+dukungan,0.4
+duli,0.05000000000000002
+durian runtuh,0.5
+duta besar,0.5
+dzuhur,0.1
+eaa,0.1
+eco,0.5
+edar,0.2
+efek,0.3
+efektif,0.5
+efisien,0.45
+efisiensi,0.5
+eja,0.3
+ejaan,0.5
+ek,0.5
+eka,0.3
+ekonomis,0.3
+eksemplar,0.3
+eksklusif,0.4
+eksotik,0.5
+ekspedisi,0.5
+ekspektasi,0.5
+eksplisit,0.04999999999999999
+eksplorasi,0.4
+ekstasi,0.1
+ekstensif,0.3
+ekstra,0.3
+ekstremis,0.3
+ekuitas,0.5
+elaborasi,0.5
+elegan,0.15000000000000002
+elektromotif,0.3
+elite,0.5
+elu,0.04999999999999999
+emansipasi,0.5
+emas,0.25
+embel-embel,0.5
+emeritus,0.5
+emir,0.45
+emong,0.3
+empati,0.5
+enak,0.04999999999999999
+encore,0.5
+endut-endut,0.3
+eneng,0.5
+energi,0.3
+energik,0.3
+enjoy,0.3
+ensiklopedi,0.5
+enteng,0.1
+entitas,0.1
+ephemeris,0.5
+epik,0.5
+esa,0.3
+esai,0.2
+estetik,0.4
+estetika,0.5
+estetis,0.26666666666666666
+etika,0.5
+etis,0.5
+eviden,0.3
+evolusi,0.5
+faal,0.4
+fadil,0.3
+faedah,0.15000000000000002
+fair,0.3
+faktitius,0.3
+faktual,0.3
+fakultas,0.25
+familiar,0.2
+fanbase,0.3
+fans,0.2
+fantasi,0.3
+fantasy,0.2
+farmasi,0.25
+fatamorgana,0.3
+fatanah,0.3
+fav,0.5
+favorit,0.5
+favorite,0.4
+federasi,0.3
+fertil,0.4
+festival,0.5
+fiesta,0.3
+figur,0.3
+filantropi,0.05
+filial,0.2
+filsuf,0.5
+final,0.04999999999999999
+fine,0.3
+fisika,0.5
+fisiologi,0.5
+fit,0.4
+fitrah,0.3
+fitting,0.5
+fitur,0.25
+fleksibilitas,0.5
+fokus,0.11666666666666668
+follback,0.1
+fonetis,0.5
+formasi,0.3
+formatif,0.5
+foto,0.3
+free,0.3
+friends,0.3
+fusi,0.45
+gadis,0.16666666666666666
+gagah,0.3
+gagasan,0.5
+gairah,0.11666666666666668
+gajak,0.4
+gaji,0.5
+gali ilmu,0.4
+gambir,0.3
+game,0.2
+gampang,0.05000000000000002
+ganduh,0.3
+gangsar,0.05000000000000002
+gani,0.4
+ganjar,0.1
+ganjar balas,0.1
+ganjaran balasan,0.1
+ganti rugi,0.125
+gapah,0.5
+gapai,0.3
+gapaian,0.3
+garda,0.3
+gari,0.3
+garis besar,0.2
+garnisun,0.5
+gatra,0.3
+gawang,0.5
+gebyar,0.4
+gedembal,0.2
+geger,0.05000000000000002
+gelak,0.2
+gelar,0.2
+geleser,0.1
+gema,0.1
+gemar,0.2
+gembala,0.5
+gembira,0.23333333333333334
+gembur,0.5
+gemi,0.3
+gemirang,0.4
+gempa,0.4
+gempar,0.1
+gencatan senjata,0.5
+gending,0.1
+gengsi,0.4
+genial,0.4
+genit,0.1
+genius,0.3
+gentas,0.04999999999999999
+gerak gerik,0.1
+gerak hati,0.4
+gerak laku,0.1
+gerak-gerik,0.4
+gerakan,0.4
+gereja,0.25
+gerha,0.3
+gerimis,0.1
+getas,0.5
+giat,0.25
+gigi,0.1
+gigih,0.5
+giliran,0.4
+girang,0.3
+girik,0.3
+girik-girik,0.3
+gita,0.2
+gobek,0.3
+gol,0.3
+golongan atas,0.5
+gombal,0.2
+gombrang,0.3
+gombroh,0.3
+gombrong,0.3
+gontai,0.1
+good,0.5
+grahita,0.3
+gratifikasi,0.2
+gratis,0.4
+great,0.3
+gres,0.4
+guar,0.3
+gubahan,0.3
+gubernur,0.25
+gubris,0.04999999999999999
+gudi,0.4
+gugah,0.05
+guna,0.1
+guntang-guntang,0.3
+gurih,0.3
+guru,0.4
+gurufavorit,0.3
+gusti,0.4
+gutuk,0.4
+guys,0.1
+gws,0.2
+habitat,0.15
+habituasi,0.1
+hadiah,0.2
+hai,0.3
+haid,0.5
+hak lebih tinggi,0.5
+hakimah,0.4
+hallo,0.4
+halo,0.1
+haloo,0.3
+halus,0.125
+hamba Allah,0.3
+hamba allah,0.3
+hamparan,0.3
+hangat,0.05000000000000002
+happy,0.5
+harapan,0.125
+harga,0.3
+harga diri,0.4
+hari libur,0.5
+hari ulang tahun,0.5
+harkat,0.5
+harmoni,0.5
+harmonis,0.09999999999999999
+harmonisasi,0.3
+harmonisasiuniv,0.2
+harta benda,0.5
+harta karun,0.5
+harum,0.5
+hasil,0.2
+hasil karya,0.5
+hastag,0.1
+hati nurani,0.5
+hati-hati,0.1333333333333333
+hay,0.1
+hayat,0.04999999999999999
+hayo,0.4
+heban,0.4
+hebring,0.3
+hello,0.2
+helloo,0.1
+hellooo,0.2
+helm,0.5
+help,0.2
+hemat,0.08888888888888889
+heran,0.11666666666666668
+herbal,0.2
+heroik,0.5
+hi,0.1
+hias,0.3
+hiasan,0.15000000000000002
+hibah,0.4
+hiburan,0.5
+hidang,0.2
+hidup bersama,0.5
+higienis,0.5
+hii,0.3
+hiii,0.1
+hijau,0.4
+hijau abadi,0.5
+hikmah,0.2
+hikmat,0.3
+hilir,0.4
+hipotetis,0.3
+hitung,0.1
+hobi,0.5
+homogen,0.2
+homologi,0.5
+hormat,0.5
+hostel,0.1
+hotel,0.1
+hujan gerimis,0.1
+hujan ringan,0.2
+hukum,0.08333333333333336
+hulubalang,0.3
+hutan,0.3
+hy,0.1
+ibadah,0.4
+ibadat,0.4
+idam,0.04999999999999999
+idaman,0.3
+ideal,0.3
+idealisme,0.5
+idiosinkratis,0.4
+idola,0.1
+iflix,0.1
+ihsan,0.4
+ijtihad,0.3
+ikhlas,0.4
+iktifak,0.4
+ikut serta,0.3
+ikutan,0.05000000000000002
+ilmiah,0.25
+ilmu,0.4
+ilmuwan,0.5
+imaji,0.3
+imajinatif,0.5
+imamat,0.5
+imbal,0.1
+imbuh,0.1
+imla,0.1
+impian,0.3
+import,0.2
+impulsif,0.3
+imut,0.2
+imut-imut,0.15000000000000002
+inap,0.2
+inaugurasi,0.1
+inayat,0.4
+indah,0.11666666666666668
+indah ambang,0.4
+indah sekali,0.5
+individual,0.4
+individualitas,0.5
+infak,0.4
+inferensi,0.3
+infinit,0.3
+informasi,0.1333333333333333
+informasinya,0.2
+ingat-ingat,0.05000000000000002
+ingatan,0.3
+ingin sekali,0.5
+ingin tahu,0.5
+inklusif,0.1333333333333333
+inkorporasi,0.3
+inovasi,0.45
+insinye,0.4
+inspektur,0.5
+instingtif,0.3
+instrumental,0.5
+insyaallah,0.2
+intan,0.3
+integrasi,0.3
+integritas,0.5
+intelek,0.5
+intelektual,0.4
+intelijen,0.5
+intensi,0.3
+interaksi,0.04999999999999999
+interes,0.4
+interferensi,0.2
+interpretasi,0.3
+interupsi,0.3
+inti,0.1
+intim,0.35
+intisari,0.25
+intonasi,0.5
+intuisi,0.5
+intuitif,0.4
+inventif,0.45
+inventivitas,0.4
+invitasi,0.2
+invite,0.1
+irama,0.325
+iringan,0.04999999999999999
+iritasi,0.1
+isbat,0.3
+isi perut,0.024999999999999994
+islam,0.4
+istimewa,0.25
+istirahat,0.06666666666666665
+itifak,0.4
+itihad,0.3
+jabar,0.3
+jackpot,0.5
+jagalah,0.3
+jago,0.3
+jagoan,0.3
+jajak,0.3
+jala,0.3
+jalan bebas hambat,0.05
+jalan bebas hambatan,0.05
+jalan buka,0.3
+jalan keluar,0.3
+jalan tengah,0.3
+jalan terbuka,0.3
+jalanin,0.2
+jali,0.2
+jamhur,0.3
+jamiah,0.1
+jamik,0.3
+jamil,0.2
+jaminan,0.25
+jamu,0.5
+janda,0.25
+jangka,0.3
+jangkar,0.5
+janji,0.25
+jantan,0.5
+jaring,0.3
+jarum,0.04999999999999999
+jasa,0.4
+jaswadi,0.3
+jatah,0.09999999999999999
+jatuh cinta,0.5
+jawara,0.3
+jaya,0.4
+jebakan,0.3
+jelak,0.3
+jelang,0.3
+jelas,0.007407407407407404
+jelasnya,0.5
+jeli,0.05000000000000002
+jempol,0.4
+jempolan,0.4
+jenak,0.1
+jenakawan,0.5
+jenang,0.4
+jenis,0.16666666666666666
+jenius,0.5
+jentelmen,0.3
+jernih,0.4
+jernih (suasana),0.1
+jernih suasana,0.1
+jiawang,0.5
+jibilah,0.4
+jidur,0.3
+jigrah,0.3
+jihad,0.3
+jimat,0.16666666666666666
+jinak,0.25
+join,0.1
+joli,0.1
+jreng,0.3
+juak-juak,0.5
+jual,0.1
+jualan,0.1
+juara,0.5
+judul,0.35
+jujur,0.23888888888888887
+julat,0.3
+jumat,0.2
+jumpa muka,0.3
+juta,0.2
+kabinet,0.1
+kaci,0.4
+kadang,0.3
+kadang-kadang,0.3
+kadar,0.5
+kado,0.2
+kafe,0.04999999999999999
+kagum,0.09999999999999999
+kaisar,0.4
+kait,0.1
+kaji,0.4
+kajian,0.4
+kakek,0.3
+kaki tangan,0.4
+kalem,0.1
+kalis,0.4
+kalong,0.3
+kam,0.2
+kamar bayi,0.5
+kamil,0.3
+kampanye,0.3
+kamus,0.16666666666666666
+kandis,0.4
+kanjang,0.4
+kanjeng sultan,0.4
+kantong,0.1
+kapabilitas,0.3
+kapasitas,0.3
+kapitalis,0.5
+karena Allah,0.2
+karena allah,0.2
+karib,0.4
+karier,0.5
+karimah,0.4
+karsa,0.3
+kartu as,0.5
+karunia,0.45
+karya,0.3
+karyawan,0.3
+kasad,0.1
+kasatmata,0.4
+kasih,0.05
+kasih sayang,0.2444444444444444
+kasihan,0.05000000000000002
+kasual,0.3
+kata,0.2
+kata pengantar singkat,0.5
+kategoris,0.5
+kaum bangsawan,0.5
+kawakan,0.5
+kawan,0.5
+ke luar,0.25
+keadilan,0.5
+keagungan,0.5
+keahlian,0.3375
+keajaiban,0.04999999999999999
+keakraban,0.5
+keaktifan,0.2
+keampuhan,0.4
+keandalan,0.5
+keanggunan,0.5
+keaslian,0.5
+kebahagiaan,0.45
+kebaikan,0.3666666666666667
+kebajikan,0.45
+kebaktian,0.5
+kebanggaan,0.5
+kebanyakan,0.2
+kebebasan,0.5
+kebenaran,0.3333333333333333
+keberanian,0.5
+kebersihan,0.25
+keberuntungan,0.26666666666666666
+kebesaran,0.45
+kebidanan,0.25
+kebijakan,0.3
+kebijaksanaan,0.4
+kebisaan,0.4
+kebolehan,0.2
+kebulatan suara,0.5
+kebutuhan,0.4
+kecakapan,0.225
+kecantikan,0.35
+kecapi,0.25
+kece,0.1
+kecengengan,0.5
+kecepatan,0.25
+kecerahan,0.5
+kecerdikan,0.4
+kecokelatan,0.5
+kecong,0.3
+kecukupan,0.5
+kedai susu,0.4
+kedalaman,0.4
+kedatangan,0.25
+kedekatan,0.16666666666666666
+kedermawanan,0.5
+kedewasaan,0.5
+kediaman,0.2
+kedodoran,0.3
+kedot,0.2
+kedoyanan,0.3
+kedudukan,0.5
+keenakan,0.45
+kegagahan,0.45
+kegairahan,0.5
+kegemaran,0.5
+kegembiraan,0.45
+kegiatan,0.3
+kegigihan,0.5
+kegirangan,0.3
+kegirangan keceriaan,0.4
+kegunaan,0.45
+kehadiran,0.275
+keheningan,0.04999999999999999
+kehormatan,0.5
+keibuan,0.25
+keikutsertaan,0.3
+keilahian,0.5
+keindahan,0.5
+kejadian,0.04999999999999999
+kejayaan,0.4
+kejelasan,0.1
+kejujuran,0.5
+kejuruan,0.3
+kejutan,0.4
+kekaguman,0.26666666666666666
+kekal,0.275
+kekasih,0.5
+kekayaan,0.26666666666666666
+kekek,0.5
+kekekalan,0.3
+kekeluargaan,0.4
+kekhususan,0.3
+kekuasaan,0.3333333333333333
+kekuatan,0.4
+kekuatan batin,0.3
+kekudusan,0.5
+kekusutan,0.04999999999999999
+kelahiran,0.23333333333333334
+kelajuan,0.4
+kelancaran,0.25
+kelancaran berbicara,0.5
+kelangsungan,0.5
+kelapangan,0.3
+kelar,0.3
+kelawasan,0.1
+kelelawar,0.3
+kelemah-lembutan,0.5
+kelembutan,0.25
+kelengkapan,0.5
+kelepasan,0.3
+kelezatan,0.4
+keliatan,0.05
+kelih,0.05000000000000002
+kelilipan,0.3
+kelimpahan,0.20000000000000004
+kelincahan,0.5
+kelip,0.5
+kelonggaran,0.275
+keluang,0.3
+keluangan,0.3
+keluaran,0.3
+keluarga,0.2
+keluasan,0.3
+kelucuan,0.3
+kelulusan,0.5
+kemahiran,0.325
+kemajuan,0.5
+kemakmuran,0.1
+kemampuan,0.3666666666666667
+kemangkakan,0.3
+kemanjuran,0.5
+kemantapan,0.4
+kemanusiaan,0.5
+kemas,0.04999999999999999
+kemaslahatan,0.4
+kemasyhuran,0.325
+kembang,0.3
+kembar,0.1
+kemegahan,0.2
+kemenangan,0.5
+kementerian,0.5
+kemerdekaan,0.5
+kemewahan,0.3333333333333333
+kemitraan,0.5
+kempuh,0.5
+kemudahan,0.3
+kemudi,0.3
+kemufakatan,0.3
+kemunculan,0.3
+kemurahan,0.4
+kemurahan hati,0.5
+kemurnian,0.5
+ken,0.2
+kenaikan,0.16666666666666666
+kenal,0.04999999999999999
+kenamaan,0.5
+kenang,0.04999999999999999
+kenang-kenangan,0.2
+kenangan,0.3
+kenari,0.25
+kenduri,0.4
+kenek,0.1
+kenikmatan,0.4
+kenyam,0.1
+kenyamanan,0.45
+kenyang,0.3
+kepadatan,0.25
+kepahlawanan,0.5
+kepala pelayan,0.5
+kepala suku,0.5
+kepandaian,0.45
+kepanikan,0.04999999999999999
+kepastian,0.5
+kepatuhan,0.4
+kepedulian,0.1
+kepekaan,0.5
+kepelesiran,0.3
+kepemilikan,0.5
+kepentingan,0.5
+keperawanan,0.5
+kepercayaan,0.08333333333333336
+kepercayaan diri,0.5
+keperluan,0.5
+kepesatan,0.4
+kepiawaian,0.4
+kepintaran,0.4
+kepoin,0.2
+kepolosan,0.5
+kepopuleran,0.5
+kepuasan,0.275
+keputusan,0.4
+keramahan,0.5
+kerendahhatian,0.5
+kerenyam,0.5
+keriaan,0.3
+kerinduan,0.1
+keringanan,0.2
+keriting,0.16666666666666666
+keriuhan di pawai,0.5
+kerja,0.2
+kerja sama,0.45
+kerjaan,0.2
+kerjasama,0.3
+kerukunan,0.4
+kes,0.3
+kesabaran,0.5
+kesadaran,0.5
+kesah,0.2
+kesalehan,0.5
+kesan,0.5
+kesatria,0.2
+kesatuan,0.25
+kesebatan,0.4
+kesederhanaan,0.5
+kesediaan,0.3
+kesehatan,0.16666666666666666
+keseimbangan,0.3666666666666667
+kesejukan,0.1
+kesemarakan,0.4
+kesempurnaan,0.25
+kesertaan,0.2
+keseruan,0.3
+kesesuaian,0.375
+kesetiaan,0.4
+kesiapan,0.5
+kesima,0.15000000000000002
+kesimpulan,0.3
+kesohor,0.5
+kesopanan,0.42857142857142855
+kestabilan,0.4
+kesucian,0.075
+kesudian,0.2
+kesufian,0.4
+kesukaan,0.5
+kesukacitaan,0.3
+kesuksesan,0.5
+kesuma,0.3
+kesungguhan,0.25
+ketaatan,0.12222222222222223
+ketabahan,0.5
+ketahanan,0.5
+ketajaman,0.14444444444444443
+ketakterbatasan,0.5
+ketangkasan,0.45
+ketapak,0.3
+ketawa,0.4
+ketegasan,0.5
+keteguhan,0.5
+keteguhan batin,0.3
+keteguhan hati,0.3
+ketekunan,0.25
+ketemu,0.1
+ketenteraman,0.4
+ketepatan waktu,0.25
+keteraturan,0.5
+keterbacaan,0.5
+keterbukaan,0.5
+keterikatan,0.4
+ketertarikan,0.4
+ketertiban,0.3
+keterusterangan,0.25
+ketetapan hati,0.3
+ketibaan,0.3
+ketidakberpihakan,0.5
+ketinggian,0.024999999999999994
+ketua,0.25
+keturunan,0.0625
+keuangan,0.16666666666666666
+keunggulan,0.4
+keuntungan,0.45
+keurus,0.4
+keurusan,0.4
+kewaspadaan,0.5
+keyakinan,0.5
+khalas,0.3
+khalis,0.4
+khas,0.4
+khasiat,0.4
+khayal,0.2
+khotbah,0.25
+khuluk,0.3
+khusyuk,0.3
+kias,0.4
+kiat,0.3
+kicau,0.3
+kicauan,0.04999999999999999
+kicu,0.3
+kidung,0.5
+kikir,0.4
+kilap,0.5
+kilat,0.04999999999999999
+kilau,0.25
+kimah,0.5
+kina,0.5
+kincang,0.3
+kincung,0.3
+kini,0.3
+kiprah,0.3
+kipu,0.4
+kirim,0.2
+kisah,0.25
+kisas,0.3
+kismat,0.1
+kits,0.5
+klasik,0.4
+klerikal,0.5
+klien,0.4
+klimaks,0.5
+koalisi,0.5
+kodrat,0.4
+kognitif,0.5
+koheren,0.5
+koherensi,0.5
+kohesi,0.4
+kokoh,0.5
+koleksi,0.1
+kolonel,0.5
+kolosal,0.5
+komandan,0.25
+komedi,0.3
+komentator,0.5
+komisi,0.3
+komodor,0.5
+kompak,0.25
+kompatibel,0.5
+kompeten,0.5
+kompetensi,0.4
+komplemen,0.5
+komplet,0.3
+komposer,0.5
+komuni,0.5
+komunikatif,0.5
+konco,0.05000000000000002
+kondang,0.5
+kondusif,0.5
+konferensi,0.2
+konfirmasi,0.3
+konfirmasikan,0.3
+konfirmasinya,0.3
+konformitas,0.4
+kongregasi,0.5
+konklusi,0.3
+konkordansi,0.5
+konkret,0.3
+konsekrasi,0.5
+konsensus,0.3
+konsentris,0.5
+konseptual,0.3
+konservasi,0.5
+konsistensi,0.1
+konsolidasi,0.3
+konsonan,0.5
+konstan,0.5
+konstelasi,0.2
+konstitusional,0.5
+konstruktif,0.3
+konsultasi,0.3
+kontak,0.09999999999999998
+kontan,0.3
+kontemplasi,0.5
+kontemporer,0.3
+kontributor,0.3
+kontur,0.5
+kooperasi,0.1
+kooperatif,0.5
+koordinasi,0.1
+koordinasikan,0.1
+koordinator,0.2
+korespondensi,0.5
+kosakata,0.5
+kosen,0.4
+kosmopolitan,0.5
+kreasi,0.3
+kreatif,0.45
+kreativitas,0.4
+kredibel,0.4
+kredibilitas,0.5
+kredit,0.5
+krim,0.3
+kristal,0.25
+kroni,0.05000000000000002
+kronik,0.5
+ksatria,0.5
+kuala,0.4
+kualifikasi,0.35
+kualitas,0.4
+kuasa,0.3
+kuat,0.08571428571428573
+kuat batin,0.3
+kucil,0.1
+kucup,0.2
+kucur,0.4
+kuda jantan,0.5
+kudus,0.4
+kue-kue,0.5
+kujarat,0.5
+kuliner,0.5
+kunci,0.06666666666666667
+kundangan,0.5
+kunjungi,0.3
+kuntit,0.1
+kunyah,0.3
+kupon,0.3
+kusa,0.3
+kusuma,0.4
+kutu buku,0.25
+kuy,0.1
+laba,0.4
+labiovelar,0.4
+labuh,0.3
+labuhan,0.3
+laden,0.3
+lagu,0.18333333333333335
+lagu Natal,0.5
+lagu pendek,0.5
+lahir,0.3
+lajnah,0.3
+lakeri,0.3
+laksamana,0.25
+lalu,0.3
+lam,0.3
+lambat,0.1
+lambuk,0.3
+lambung,0.2
+lampiran,0.25
+lampu,0.4
+lamunan,0.5
+lancar,0.1
+lancarkan,0.3
+lancung,0.3
+langgam,0.2
+langgan,0.2
+langganan,0.4
+langgeng,0.4
+langit,0.5
+langkah,0.4
+langkah baik,0.15000000000000002
+langkah kanan,0.3
+langsing,0.5
+langsung,0.15000000000000002
+lanjutkan,0.1
+lantik,0.3
+lantip,0.3
+lapang,0.3
+lapangan,0.3
+lapis,0.5
+lapisan,0.18125
+lapor,0.2
+laporkan,0.2
+larutan,0.5
+laser,0.5
+latih,0.04999999999999999
+latih diri,0.4
+laun,0.1
+laut,0.16666666666666666
+layak,0.1
+layanan,0.3
+lebai,0.05000000000000002
+lebih,0.1
+lebih besar,0.25
+lebih menyukai,0.5
+lebih tua,0.5
+lebih-lebih,0.4
+lebuk,0.3
+lebun,0.3
+lega,0.5
+legawa,0.4
+legendaris,0.5
+legit,0.4
+lektur,0.4
+lembik,0.5
+lembuk,0.3
+lembut,0.125
+lenggang,0.2
+lentera,0.4
+lentur,0.5
+lestari,0.4
+lezat,0.4642857142857143
+liat,0.05
+libur,0.3
+liburan,0.4
+licin,0.15000000000000002
+liga,0.5
+lihai,0.09999999999999998
+lihat,0.3
+lila,0.4
+limbukan,0.3
+limpah,0.1
+lincah,0.15833333333333338
+lindu,0.4
+lindung,0.4
+lingkungan,0.3
+lini,0.4
+linuhung,0.3
+liputan,0.3
+liris,0.25
+listrik,0.5
+live,0.3
+logis,0.5
+longgar,0.024999999999999994
+longo,0.3
+losmen,0.2
+love,0.1
+lovers,0.4
+loyal,0.5
+loyalitas,0.5
+luar biasa,0.07692307692307696
+luas,0.2571428571428571
+luck,0.4
+lucu sekali,0.5
+lugas,0.4
+lugu,0.1
+luk,0.3
+lukis,0.2
+lukisan,0.2
+luluh,0.1
+lulus,0.5
+lumayan,0.1333333333333333
+lumba-lumba,0.5
+lunak,0.3125
+lunas kapal,0.2
+lunch,0.3
+lupain,0.1
+lupakan,0.1
+lurus,0.4
+lurus hati,0.09999999999999999
+maaf,0.1333333333333333
+mabrur,0.4
+maen,0.3
+mafhum,0.09999999999999999
+magnet,0.5
+magnetit,0.5
+maha,0.4
+mahabah,0.4
+mahakuasa,0.25
+mahal,0.1
+mahatahu,0.5
+mahdi,0.3
+mahfum,0.4
+mahir,0.26666666666666666
+maimun,0.4
+majenun,0.04999999999999999
+maju,0.25
+majubersama,0.3
+makan,0.08333333333333331
+makan malam,0.125
+makanan,0.3
+makasih,0.4
+makbul,0.3
+makhluk,0.024999999999999994
+makin,0.2
+maklum,0.04999999999999999
+makmur,0.45
+makna,0.5
+makruf,0.4
+maksimal,0.3
+maksimum,0.5
+maksud,0.09999999999999999
+malaikat,0.5
+malayari,0.3
+malim,0.3
+mama,0.4
+mamak,0.2
+mancing,0.2
+mandat,0.25
+mandi,0.16666666666666666
+mandor,0.5
+mandraguna,0.4
+manfaat,0.375
+manfaatnya,0.3
+manggala,0.3
+manila,0.5
+manis,0.21111111111111108
+manisan,0.5
+manja,0.1
+manjur,0.15000000000000002
+manna,0.5
+mantap,0.5
+manusia,0.3
+manusia super,0.5
+manusiawi,0.5
+mapan,0.275
+margrit,0.3
+mari,0.15000000000000002
+marquis,0.5
+marsekal,0.5
+martabat,0.5
+masa kanak-kanak,0.5
+masa kejayaan,0.5
+masa kini,0.3
+masakan,0.3
+masjid,0.3
+maskapai,0.3
+maskulin,0.5
+maslahat,0.3
+masyarakat,0.25
+masygul,0.04999999999999999
+mata cahari,0.2
+mata gawai,0.4
+mata pencaharian,0.2
+matahari,0.35
+matahari terbenam,0.5
+matang,0.5
+mau,0.2
+maujud,0.2
+maut,0.4
+mayoritas,0.5
+mazmur,0.5
+medali,0.325
+mediasi,0.5
+medis,0.5
+mediterania,0.5
+medium,0.2
+megah,0.5
+mekar,0.4
+melafalkan,0.2
+melahirkan,0.3
+melakoni,0.1
+melakonkan,0.3
+melalui,0.3
+melambungkan,0.2
+melampas,0.4
+melancarkan,0.04999999999999999
+melanjutkan,0.125
+melantik,0.3
+melantunkan,0.3
+melanyak,0.05000000000000002
+melarikan,0.3
+melarutkan,0.1
+melatih diri,0.4
+melebihi,0.3333333333333333
+meledos,0.3
+melengkapi,0.275
+melestarikan,0.3333333333333333
+meletakkan,0.4
+melicinkan,0.1
+melihat,0.2
+melilit,0.3
+melimpah,0.5
+melimpahkan,0.5
+melindungi,0.5
+melintangi,0.3
+melintas (rimba),0.3
+melipur,0.05000000000000002
+melisankan,0.3
+meloloskan,0.3
+melongo,0.3
+melontarkan,0.3
+meluas,0.2
+meluluskan,0.3
+meluncur,0.25
+meluncurkan,0.4
+memaafkan,0.1
+memafhumi,0.3
+memahami,0.31666666666666665
+memahirkan,0.15000000000000002
+memaklumi,0.04999999999999999
+memalu,0.3
+memancarkan,0.16666666666666666
+memandu,0.4
+memanen,0.5
+memang,0.1
+memanjang,0.3
+memanjatkan doa,0.05000000000000002
+memarkir,0.1
+memartil,0.3
+memastikan,0.125
+mematangkan,0.5
+mematuhi,0.4
+mematuk,0.5
+membaca,0.325
+membahagiakan,0.4
+membahas,0.1
+membalas,0.033333333333333326
+membangkitkan,0.1
+membangun,0.5
+membantu,0.16666666666666666
+membarui lagi,0.5
+membayangkan,0.2
+membayar,0.1
+membayar kembali,0.5
+membebaskan,0.25
+membela,0.5
+membenamkan,0.5
+membenang,0.4
+membenarkan,0.3
+membentengi,0.5
+membentuk,0.16666666666666666
+memberdayakan,0.5
+memberi,0.12499999999999999
+memberikan,0.25
+memberkati,0.5
+membiasakan,0.2
+membimbingmu,0.3
+membimbit,0.3
+membina,0.5
+membingkas,0.3
+membingkis,0.4
+membuat,0.05
+membuat terkesan,0.5
+membuat ulang,0.5
+membubuhkan,0.4
+membuktikan,0.04999999999999999
+membumbui,0.25
+membunyikan,0.05
+memegang kitab,0.4
+memeluk,0.26666666666666666
+memendam,0.4
+mementingkan,0.4
+memenuhi,0.1
+memenuhi syarat,0.3333333333333333
+memeriahkan,0.5
+memerikan,0.3
+memerintah,0.125
+memesonakan,0.2
+memfasilitasi,0.2
+memikat hati,0.5
+memilih,0.25
+memiliki,0.25
+memimpin,0.16666666666666666
+meminati,0.3
+meminda,0.4
+meminta,0.1
+meminta maaf,0.5
+memintasi,0.3
+memolakan,0.4
+mempekerjakan,0.25
+mempelai,0.5
+mempelajari,0.5
+memperbaiki,0.3333333333333333
+mempercantik,0.4
+memperelok,0.3
+memperindah,0.3
+memperingati,0.5
+memperkaya,0.5
+memperkirakan,0.2
+memperkuat,0.275
+memperoleh,0.2
+mempersiapkan,0.175
+mempersolek,0.3
+mempertentangkan,0.1
+mempesona,0.3333333333333333
+memprediksi,0.09999999999999999
+memproduksi,0.5
+mempromosikan,0.3
+mempunyai,0.4
+memuai,0.3
+memuaskan,0.08333333333333334
+memudahkan,0.23333333333333334
+memuja,0.5
+memuji,0.5
+memuji-muji,0.4
+memukau,0.26666666666666666
+memuliakan,0.5
+memulihkan,0.5
+memunculkan,0.3
+memungkinkan,0.5
+memurnikan,0.5
+menabung,0.4
+menafsirkan,0.2
+menakjubkan,0.13333333333333333
+menaksir,0.09999999999999999
+menambah,0.275
+menanggung,0.15
+menara,0.5
+menari,0.5
+menarik,0.06944444444444442
+menarik hati,0.09999999999999999
+menaruh hati,0.3
+menasihati,0.5
+menating,0.3
+menawan,0.5
+menawarkan,0.25
+menayangkan,0.2
+mencari akal,0.3
+mencari ilmu,0.4
+mencari jalan,0.3
+mencebikkan,0.05000000000000002
+mencemaskan,0.05000000000000002
+mencengangkan,0.05000000000000002
+mencerahkan,0.5
+menceritakan,0.3
+mencerna,0.3
+mencinta,0.2
+mencintai,0.3
+mencintaimu,0.4
+mencium telapak kaki,0.1
+mencolok,0.35
+mencontoh,0.4
+mencontohkan,0.4
+mencurigai,0.1
+mendahului,0.07500000000000001
+mendandankan,0.3
+mendapat,0.3
+mendapatkan,0.375
+mendarat,0.06666666666666665
+mendasar,0.04999999999999999
+mendayung,0.5
+mendebarkan,0.04999999999999999
+mendengungkan,0.3
+menderaikan,0.3
+mendeteksi,0.4
+mendidik,0.4
+mendikte,0.3
+mendoa,0.05000000000000002
+menduga,0.23333333333333334
+mendukung,0.25
+mendusin,0.4
+menebak,0.04999999999999999
+menebarkan,0.3
+menebus,0.5
+menegarkan,0.2
+menegaskan,0.25
+menegaskan kembali,0.5
+meneladan,0.4
+menelungkup,0.1
+menelurkan,0.3
+menelusuri,0.3
+menembusi,0.3
+menempa,0.5
+menempati,0.1
+menempuh (hidup),0.3
+menemukan,0.2
+menenangkan,0.19999999999999998
+menentu,0.3
+menerangi,0.5
+menerima,0.31666666666666665
+menerka,0.09999999999999999
+menetap,0.3
+mengadunkan,0.3
+mengagumi,0.5
+mengagungkan,0.5
+mengaibkan,0.1
+mengajar,0.5
+mengaji,0.4
+mengakap,0.4
+mengakar,0.5
+mengalem,0.4
+mengalir,0.16666666666666666
+mengalirkan darah,0.4
+mengalunkan,0.3
+mengambil bagian,0.5
+mengambil contoh,0.4
+mengambil ibarat,0.4
+menganggap,0.3
+menganggar,0.3
+mengangkat,0.125
+mengangkat-angkat,0.4
+mengangsur,0.1
+mengantar,0.5
+mengantisipasi,0.09999999999999999
+menganugerahkan,0.5
+menganut,0.4
+mengarahkan,0.3
+mengarifi,0.3
+mengartikan,0.1
+mengasihani,0.4
+mengasosiasikan,0.3
+mengatur,0.25
+mengawaki,0.5
+mengecamkan,0.3
+mengecat,0.4
+mengecilkan,0.05000000000000002
+mengeja,0.3
+mengelola,0.25
+mengeloskan,0.3
+mengeluarkan darah,0.4
+mengembalikan lagi,0.5
+mengembang,0.1
+mengembangkan,0.16666666666666666
+mengenakan,0.5
+mengenal,0.1
+mengenang,0.3
+mengentengkan,0.1
+mengepung,0.5
+mengerti,0.16666666666666663
+mengesankan,0.4
+mengetuk,0.3
+menggali ilmu,0.4
+menggambari,0.3
+mengganjar,0.1
+menggarisbawahi,0.25
+menggegerkan,0.05000000000000002
+menggelitik,0.5
+menggemari,0.3
+menggemburkan melambuk,0.3
+menggemparkan,0.1
+menggertakkan,0.5
+menggirangkan melegakan,0.4
+menggolongkan,0.5
+menghadiahi,0.05000000000000002
+menghadiahkan,0.16666666666666669
+menghajatkan,0.1
+mengharapkan,0.16666666666666666
+menghargai,0.5
+menghasilkan,0.1
+menghebohkan,0.05000000000000002
+menghibur,0.5
+menghidangkan,0.2
+menghidupkan,0.25
+menghikayatkan,0.3
+menghimpunkan,0.3
+menghitung,0.0625
+menghormati,0.5
+menghubungi,0.1
+mengibai,0.4
+mengikuti,0.3
+mengiler,0.3
+mengilhami,0.5
+mengimbas,0.3
+mengimbasi,0.3
+mengimbuhi,0.3
+mengimbuhkan,0.4
+mengimla,0.1
+mengingat-ingat,0.2
+mengingatkan,0.3
+menginginkan,0.45
+menginsafi,0.3
+menginstruksikan,0.5
+menginterprestasikan,0.1
+mengipasi,0.3
+mengira-ngira,0.3
+mengisi,0.2
+mengisi kembali,0.5
+mengizinkan,0.06666666666666667
+mengolah,0.5
+mengoles,0.4
+mengononkan,0.3
+mengontak,0.1
+mengorak senyum,0.2
+menguasai,0.5
+menguatkan,0.1
+mengubah,0.25
+mengucapkan,0.3
+mengucil,0.1
+mengucup,0.2
+menguduskan,0.5
+mengumaikan,0.3
+mengumpulkan,0.3
+mengumumkan,0.3
+mengundang,0.5
+mengunjungi,0.25
+menguntir,0.4
+menguntiti,0.1
+menguntungkan,0.16666666666666666
+mengusili,0.05000000000000002
+mengutarakan,0.3
+meni,0.1
+menikah,0.1
+menikmati,0.016666666666666663
+menimba,0.4
+menimba ilmu,0.4
+meningkatkan,0.16666666666666666
+meniru,0.2625
+meniti,0.2
+menjadi-jadi,0.1
+menjaga,0.1
+menjahili,0.05000000000000002
+menjalani,0.3
+menjanjikan,0.5
+menjejali,0.1
+menjelajah,0.3
+menjelajahi,0.3
+menjelang,0.3
+menjelaskan,0.4
+menokok,0.3
+menolong,0.4
+menongkat,0.4
+menonjol,0.25
+menopang,0.25
+menorehkan,0.1
+mentab,0.2
+menukar,0.1
+menukarkan,0.5
+menumbuk,0.05000000000000002
+menuntun,0.3
+menuntut ilmu,0.4
+menurut,0.4
+menuturkan,0.3
+menyadari,0.2
+menyaksikan,0.1
+menyambut,0.5
+menyampaikan,0.275
+menyandar,0.4
+menyanjung,0.45
+menyanjung-sanjung,0.2
+menyanyi,0.45
+menyanyikan,0.3
+menyapih,0.4
+menyarankan,0.25
+menyaring,0.5
+menyayang,0.4
+menyayangi,0.4
+menyebarkan,0.125
+menyeberangi,0.3
+menyebut,0.3
+menyederhanakan,0.5
+menyediakan,0.26666666666666666
+menyegarkan,0.4
+menyelamatkan,0.25
+menyelesaikan,0.2
+menyempurnakan,0.3
+menyenangkan,0.2
+menyeni,0.1
+menyerikati,0.3
+menyeringai,0.5
+menyerupai,0.4
+menyesali,0.06666666666666668
+menyesuaikan,0.16666666666666666
+menyetujui,0.25
+menyiapkan,0.1
+menyikap,0.1
+menyimpan,0.16666666666666666
+menyimpulkan,0.125
+menyinkronkan,0.09999999999999999
+menyiram,0.5
+menyuarakan,0.09999999999999999
+menyukai,0.26666666666666666
+menyumbang,0.5
+menyuplai,0.2
+menyusuri,0.3
+menyusutkan,0.1
+meragam,0.4
+merah,0.05000000000000002
+merah jambu,0.3
+merah muda,0.3
+merahimi,0.4
+meraih,0.5
+merak,0.5
+merakit,0.3
+meramalkan,0.11666666666666668
+merangkul,0.1
+merangsang,0.04999999999999999
+merapal,0.1
+merapat,0.1
+merapikan,0.5
+merasai,0.1
+merata,0.1
+meraun,0.4
+merawikan,0.3
+merayakan,0.5
+mercu suar,0.5
+merdu,0.5
+merecoki,0.05000000000000002
+meredakan,0.5
+merekam,0.2
+merekonstruksi,0.5
+meremajakan,0.5
+meremas-remas,0.3
+merembes,0.1
+merenangi,0.1
+merencanakan,0.3
+merenovasi,0.5
+merentangkan,0.3
+merenung,0.3
+merespon,0.3
+merevisi,0.5
+merger,0.3
+meriah,0.275
+merilis,0.3
+merinai,0.1
+meringankan,0.11666666666666667
+meriwayatkan,0.3
+merombak,0.5
+meronda,0.4
+meruncing,0.4
+mesem,0.2
+mesra,0.4
+metah,0.4
+metropolitan,0.5
+mewah,0.3
+mewarisi,0.3
+mewarnai,0.4
+mewisuda,0.3
+meyakinkan,0.275
+mikat,0.2
+mikroanalisis,0.3
+mikroskopi,0.5
+mimbar,0.25
+mimpi,0.2
+mimpian,0.2
+minat,0.45
+minta kpd tuhan,0.3
+minta maaf,0.5
+minuman,0.5
+misbah,0.4
+misionaris,0.5
+mitra,0.09999999999999998
+mksh,0.2
+mobil,0.1
+moblong,0.3
+model,0.4
+moderator,0.1
+modern,0.3
+modifikasi,0.2
+modis,0.5
+moga,0.1
+moga-moga,0.1
+mohon diri,0.2
+mojang,0.2
+momentum,0.4
+monggo,0.3
+monopoli,0.3
+montok,0.275
+mood,0.2
+moral,0.45
+moralitas,0.5
+moratorium,0.3
+mortir,0.5
+motel,0.1
+motif,0.25
+muara,0.4
+muas,0.5
+muda,0.024999999999999994
+mudah,0.18333333333333335
+mudah beradaptasi,0.5
+mudah diingat,0.5
+mudah-mudahan,0.1
+mudahan,0.1
+mufaham,0.3
+mufakat,0.4
+muhibah,0.4
+mujarab,0.15000000000000002
+muji,0.2
+mujur,0.4
+mukhlis,0.04999999999999999
+mukibat,0.3
+mukim,0.2
+muktabar,0.3
+muktamar,0.4
+mulai,0.1
+mullah,0.3
+mulu,0.05
+mulut sungai,0.4
+murah,0.033333333333333354
+murid,0.3
+murni,0.375
+musara,0.3
+music,0.1
+musik,0.35
+musikal,0.5
+muslim,0.3
+mustaid,0.3
+mustajab,0.4
+mustakim,0.4
+mutakhir,0.4
+mutlak,0.1
+mutu,0.09999999999999999
+muwafakat,0.3
+nabi,0.35
+nada,0.2
+nafkah,0.3
+naik,0.1
+naik daun,0.4
+naik ke pelamin,0.3
+naik ke pelaminan,0.3
+naik pelamin,0.4
+naik pelaminan,0.4
+naikkan,0.1
+nalar,0.5
+naluriah,0.5
+nasabah,0.4
+nasi,0.2
+nasihat,0.016666666666666663
+naskah,0.16666666666666666
+natal,0.1
+natur,0.3
+naturalis,0.5
+neces,0.4
+necis,0.15000000000000002
+negosiasi,0.35
+nektar,0.5
+nemenin,0.2
+nenek,0.5
+nenek moyang,0.25
+neng,0.2
+ngajak,0.1
+ngasih,0.04999999999999999
+ngopi,0.3
+ngurusin,0.2
+nian,0.4
+niat baik,0.5
+nice,0.4
+nikah,0.1333333333333333
+nikmat,0.3
+nikmati,0.3
+nila,0.2
+nilai,0.5
+nirkabel,0.5
+nirmala,0.4
+nomine,0.5
+normal,0.1
+normalitas,0.5
+novel,0.2
+nuftah,0.3
+nunggu,0.1
+nuri,0.3
+nyali,0.2
+nyali besar,0.04999999999999999
+nyaman,0.3666666666666667
+nyamleng,0.5
+nyana,0.3
+nyanyi,0.04999999999999999
+nyanyian,0.16666666666666663
+nyanyian pujian,0.5
+nyaring,0.25
+nyata,0.12222222222222222
+oasis,0.5
+obat mujarab,0.5
+obat pencahar,0.5
+objektif,0.45
+ok,0.4
+okay,0.4
+oke,0.2
+okeey,0.2
+only,0.1
+operasi,0.1
+oportunitas,0.3
+opsional,0.25
+optimis,0.5
+optimisme,0.5
+orak senyum,0.2
+orang desa,0.5
+orang islam,0.2
+orang-orang terkenal,0.5
+orde,0.3
+ordo,0.3
+organik,0.5
+organisasi,0.4
+orgasme,0.5
+orientasi,0.3
+orisinal,0.3
+orkestra,0.5
+ornamen,0.5
+otak,0.11111111111111112
+otak encer,0.2
+otentik,0.3
+otomatis,0.3
+otorisasi,0.5
+otoritas,0.5
+ovum,0.4
+pabrikan,0.5
+pacaran,0.16666666666666669
+pacarnya,0.2
+padang rumput,0.2
+padat,0.125
+paduan suara,0.5
+paduka,0.4
+paduka Tuan,0.4
+page,0.2
+pagon,0.3
+pahala,0.05
+pahat,0.5
+paheman,0.4
+pahlawan,0.5
+pahlawan wanita,0.5
+pak,0.5
+pakat,0.4
+paket,0.4
+paliatif,0.5
+pamit,0.2
+pamrih,0.1
+panas kuku,0.4
+pancaroba,0.1
+pandai berbicara,0.5
+pandai bicara,0.3
+pandang,0.1
+pandu,0.3
+panduan,0.25
+pangeran,0.3
+panggul,0.4
+pangkat,0.5
+panglima,0.3
+pangus,0.5
+panil,0.4
+panitia,0.3
+panjang,0.2
+panjang tungkai,0.2
+panjat doa,0.4
+panorama,0.3
+pantai,0.1
+pantar,0.1
+pantas mulut,0.2
+pantau,0.2
+panti,0.2
+pantomim,0.25
+pantulan,0.3
+paparan,0.3
+paprika,0.5
+para,0.2
+para-para,0.2
+parade,0.1
+paradigma,0.3
+paramarta,0.4
+parietal,0.5
+paripurna,0.1
+parkir,0.1
+parsel,0.2
+partisipasi,0.4
+pas,0.3
+pasang,0.4
+pasang hidup,0.4
+pasangan,0.2
+pasangan hidup,0.05000000000000002
+pasar uang,0.2
+pasien,0.5
+pasti,0.2125
+pastikan,0.3
+paten,0.5
+patriarkhal,0.5
+patroli,0.2
+patuh,0.325
+patung,0.016666666666666663
+paus,0.16666666666666666
+paya,0.4
+payu,0.2
+pedalaman,0.16666666666666666
+peduli,0.15000000000000002
+pegah,0.5
+pegawai,0.3
+pejantan,0.5
+pejatian,0.3
+peka,0.2
+pekerja,0.3
+pekerjaan,0.275
+pelabuhan,0.25
+pelajar,0.1
+pelajaran,0.35
+pelamin,0.4
+pelaminan,0.4
+pelampung,0.5
+pelancar,0.2
+pelanggan,0.325
+pelangi,0.4
+pelarasan,0.3
+pelatih,0.3
+pelawak,0.25
+pelayan,0.06666666666666668
+pelayanan,0.3
+peleburan,0.3
+pelega,0.5
+pelengkap,0.2
+pelesapan,0.3
+pelihara,0.3
+pelindung,0.5
+pelipuran,0.2
+pelita,0.1
+pelopor,0.5
+peluang,0.25
+pelupuk mata,0.4
+pemaafan,0.5
+pemahkotaan,0.5
+pemair,0.3
+pemajangan,0.4
+pemandangan,0.2
+pemantapan,0.4
+pembaca,0.5
+pembahasan,0.1
+pembantu,0.25
+pembaptisan,0.25
+pembaru,0.5
+pembaruan,0.45
+pembebasan,0.375
+pembela,0.25
+pembelaan,0.5
+pembeli,0.2
+pembenaran,0.25
+pemberani,0.5
+pemberdayaan,0.5
+pembersihan,0.5
+pembiasaan,0.3
+pembicara utama,0.5
+pembimbing,0.275
+pemenang,0.4
+pemenang hadiah,0.5
+pemenangnya,0.4
+pemenuhan,0.5
+pemikir,0.5
+pemilik,0.3
+pemilikan,0.3
+pemimpin,0.5
+pemuaian,0.3
+pemuda,0.05
+pemudaan,0.05
+pemufakatan,0.4
+pemuja,0.3
+pemujaan,0.5
+pemukim,0.5
+pemulihan,0.5
+pemulihan nama baik,0.5
+pemurnian,0.5
+penabung,0.3
+penali,0.3
+penambahan,0.2
+penampil,0.5
+penanaman,0.16666666666666666
+penandasan,0.3
+penanganan,0.1
+penanggulangan,0.2
+penangkal,0.5
+penangkalan,0.4
+penanti,0.3
+penanya,0.5
+penasihat,0.5
+penat,0.1
+pencalonan,0.25
+pencapaian,0.3333333333333333
+pencarian,0.5
+pencatat,0.3
+pencatatan,0.3
+pencedok,0.3
+pencegahan,0.2833333333333334
+pencerahan,0.1
+penceramah,0.5
+pencitraan,0.2
+pendaftaran,0.3
+pendahuluan,0.09999999999999999
+pendakian,0.5
+pendalaman,0.4
+pendamping,0.5
+pendampingan,0.5
+pendataan,0.3
+pendekar,0.3
+penderma,0.3
+pendeta,0.2857142857142857
+pendidik,0.3
+pendidikan,0.3333333333333333
+penduduk,0.25
+pendukung,0.3666666666666667
+penebusan,0.5
+penebusan dosa,0.25
+penegasan,0.3
+penemu,0.5
+penemuan,0.25
+penengah,0.1
+penentuan,0.4
+penerang,0.4
+penerangan,0.1333333333333333
+penerbangan,0.16666666666666666
+penerima,0.2
+penerimaan,0.125
+pengagum,0.5
+pengajar,0.4
+pengalaman,0.2
+pengalasan,0.3
+pengalihan,0.5
+pengaman,0.2
+pengampunan,0.5
+pengandaian,0.3
+pengangkut,0.1
+pengantin,0.5
+pengantin perempuan,0.5
+pengapit,0.4
+pengarang,0.5
+pengaruh,0.033333333333333354
+pengasuh,0.3
+pengawal,0.25
+pengawas,0.1
+pengawet,0.5
+pengekangan,0.5
+pengelolaan,0.5
+pengembangan,0.3
+pengembangannya,0.3
+pengen,0.04999999999999999
+pengenalan,0.5
+pengendara,0.5
+pengertian,0.3
+pengetahuan,0.325
+penggabungan,0.3
+penggantian,0.25
+penggede,0.3
+penggemar,0.5
+penggerak,0.5
+pengguna,0.1
+penggunaan,0.1
+penghargaan,0.45
+pengharmonisan,0.3
+penghayatan,0.04999999999999999
+penghiburan,0.25
+penghidupan,0.2
+penghimpunan,0.3
+penghormatan,0.1
+penghuni,0.275
+penginapan,0.2
+pengirim,0.1
+pengiring pengantin perempuan,0.5
+pengisi daya,0.5
+penglihatan,0.16666666666666666
+penguasaan,0.4
+penguatan,0.5
+pengudusan,0.5
+pengukur,0.3
+pengumpulan,0.3
+pengunjung,0.5
+pengurus,0.3
+penikmat,0.5
+penimbunan,0.1
+peninggalan,0.4
+peninggian,0.5
+peningkatan,0.25
+penjaga,0.3125
+penjelasan,0.3
+penjenang,0.4
+penolong,0.4
+penongkat,0.3
+pentahbisan,0.5
+penting,0.07777777777777778
+pentingnya,0.5
+penuh,0.14285714285714285
+penuh arti,0.5
+penuh bintang,0.5
+penuh harapan,0.25
+penuh kasih,0.5
+penuh perhatian,0.5
+penuh pertimbangan,0.5
+penuh semangat,0.25
+penulis,0.5
+penumpil,0.3
+penumpukan,0.1
+penundukan,0.3
+penunggu,0.04999999999999999
+penunggu dunia,0.2
+penunjang,0.3
+penutupan,0.15
+penyair,0.25
+penyambut,0.2
+penyantun,0.4
+penyataan,0.5
+penyatuan,0.13333333333333333
+penyayang,0.5
+penyelamatan,0.5
+penyelarasan,0.3
+penyelesaian,0.35
+penyempurnaan,0.3
+penyeragaman,0.1
+penyerasian,0.3
+penyerobotan,0.3
+penyesuaian,0.3
+penyewa,0.125
+penyewaan,0.5
+penyiasat,0.5
+penyimpan,0.3
+penyimpanan,0.16666666666666666
+penyokong,0.3
+penyumbang,0.25
+penyunatan,0.5
+perada,0.5
+peradaban,0.5
+peradilan,0.5
+perai,0.3
+perakitan,0.5
+peramal,0.3333333333333333
+peran serta,0.3
+perancang,0.5
+perangsangan,0.5
+perantaraan,0.4
+perata,0.2
+perataan,0.2
+perawakan,0.25
+perawan,0.5
+perawat,0.5
+perayaan,0.5
+perbaikan,0.3
+perbentrokan,0.5
+percakapan,0.25
+percaya,0.225
+percaya diri,0.26666666666666666
+percederaan,0.5
+percintaan,0.5
+perdamaian,0.5
+perdeo,0.4
+perduli,0.4
+pere,0.3
+perekam,0.5
+perembukan,0.4
+perempuan cantik,0.5
+perencanaan,0.5
+peresapan,0.3
+perfek,0.15000000000000002
+pergeseran,0.5
+perhatian,0.45
+perhimpunan,0.3
+peri,0.3
+peria,0.2
+perian,0.3
+periang,0.5
+perilaku,0.2
+perincian,0.3
+perjalanan,0.25
+perjamuan,0.5
+perjuangin,0.3
+perkasa,0.4
+perkawinan,0.1
+perkiraan,0.3
+perkolasi,0.3
+perkumpulan,0.3
+perlindungan,0.16666666666666666
+perlu,0.2
+perlup,0.3
+permadani,0.3
+permanen,0.3
+permata,0.275
+permen,0.5
+permintaan maaf,0.5
+permufakatan,0.3
+permukiman,0.3
+pernik,0.3
+pernikahan,0.5
+perolehan,0.3
+perombakan,0.5
+peronda,0.3
+perpaduan,0.4
+perpanjangan,0.2
+persahabatan,0.3666666666666667
+persamaan,0.225
+persatuan,0.5
+persaudaraan,0.3333333333333333
+persaudaraan wanita,0.5
+persediaan,0.055555555555555566
+persekongkolan,0.05000000000000002
+persemakmuran,0.5
+persembahan,0.1
+persen,0.2
+persenan,0.2
+perseptif,0.3
+perserikatan,0.3
+perserupaan,0.4
+persesuaian,0.4
+persetujuan,0.3333333333333333
+persiapan,0.2
+personalitas,0.1
+pertahanan,0.5
+pertahanin,0.1
+pertahankan,0.1
+pertanggungjawaban,0.5
+pertanian,0.16666666666666666
+pertanyaan,0.3333333333333333
+pertemuan,0.3
+pertimbangan kembali,0.5
+pertolongan,0.4
+pertukaran,0.1
+pertumbuhan,0.5
+pertumpahan,0.3
+perubahan,0.11666666666666668
+perunding,0.5
+peruntungan,0.05000000000000002
+perusahaan,0.2125
+perut,0.3
+perwalian,0.5
+perwira,0.45
+pesam,0.4
+pesanggrahan,0.2
+pesat,0.04999999999999999
+pesenam,0.5
+pesisir,0.16666666666666666
+pesona,0.21111111111111114
+pesta,0.45
+pestaka,0.4
+petah lidah,0.4
+peternakan,0.25
+petes,0.4
+petualang,0.25
+petualangan,0.5
+petugas,0.1
+petunjuk,0.125
+phoenix,0.5
+piala,0.25
+pidato,0.3333333333333333
+pijat,0.5
+piknik,0.5
+pil,0.5
+pilih kasih,0.5
+pilihan,0.375
+pilot,0.16666666666666666
+pinggul,0.05000000000000002
+pingin,0.2
+pinisepuh,0.3
+pinky,0.3
+pinter,0.2
+pionir,0.3
+pleno,0.5
+plong,0.3
+plus,0.2
+pohon,0.04999999999999999
+pohon salam,0.5
+poin,0.2
+pokta,0.5
+pola,0.3
+polisi,0.125
+politik,0.075
+polos,0.06666666666666665
+pondok,0.125
+popularitas,0.5
+populasi,0.5
+populer,0.5
+poros,0.25
+porsi,0.4
+portabel,0.5
+portofolio,0.2
+positif,0.4
+potensi,0.275
+potongan harga,0.5
+prabu,0.4
+prakiraan,0.3
+praktek,0.25
+praktis,0.4
+prasarana,0.3
+prasetia,0.3
+prawira,0.4
+prayojana,0.3
+prediksi,0.09999999999999999
+preferensi,0.3
+prei,0.3
+preinan,0.3
+prem,0.5
+premium,0.2
+preseden,0.1
+presiden,0.3
+presisi,0.5
+prestasi,0.5
+prestise,0.5
+preventif,0.4
+prigel,0.4
+prima,0.4
+primadona,0.5
+primbon,0.4
+primer,0.04999999999999999
+probabilitas,0.3
+prodeo,0.4
+produk,0.3
+produksi,0.5
+produktif,0.26666666666666666
+produktifitas,0.5
+produsen,0.5
+profesi,0.5
+profesional,0.5
+profesor,0.5
+profit,0.15000000000000002
+profitabel,0.4
+progresif,0.5
+prominen,0.5
+promo,0.3
+promosi,0.5
+promote,0.3
+prosedur,0.04999999999999999
+proses,0.1
+prosesi,0.5
+prospek,0.4
+protektor,0.3
+proud,0.5
+proyeksi,0.3
+pseudonim,0.2
+puadai,0.4
+pualam,0.5
+puas,0.4
+publik,0.5
+publikasi,0.2
+puja,0.4
+puji,0.4
+pujian,0.5
+pukal,0.3
+pukau,0.05
+pukauan,0.4
+pulas,0.15000000000000002
+pulut,0.3
+pundi,0.2
+pundi-pundi,0.2
+punia,0.4
+punya,0.3
+punya nama,0.5
+purna,0.3
+purusa,0.3
+pusaka,0.4
+pusat,0.3
+puspa,0.4
+puspita,0.3
+pustaka,0.4
+puterin,0.1
+putihnya,0.5
+putri,0.5
+putus kata,0.4
+putusan,0.3
+qadim,0.3
+queen,0.2
+quran,0.3
+radikalis,0.3
+radio,0.5
+radu,0.3
+rafi,0.3
+rahayu,0.1
+rahim,0.35
+rahmat,0.1
+raih,0.2
+raihan,0.2
+rais,0.3
+raja,0.125
+rajah,0.1
+rajin,0.05000000000000002
+rakitan,0.3
+rama,0.3
+ramah,0.23333333333333334
+ramah tamah,0.5
+ramaikan,0.3
+ramanda,0.3
+ramping,0.5
+rampuh,0.3
+rampung,0.3
+rana,0.4
+rancak,0.04999999999999999
+rani,0.4
+ranum,0.5
+rapal,0.1
+rapi,0.15833333333333333
+rasa hormat,0.5
+rasa ingin tahu,0.5
+rasa manis,0.5
+rasa syukur,0.5
+rasai,0.1
+rasional,0.5
+rasul,0.5
+ratna,0.2
+ratu,0.2
+rawa,0.07500000000000001
+ready,0.1
+real,0.2
+realistis,0.4
+recok,0.05000000000000002
+refleks,0.3
+refleksi,0.3
+reformasi,0.5
+refresh,0.2
+regenerasi,0.1
+rehabilitasi,0.5
+rejeki,0.4
+rekaan,0.3
+rekan,0.15000000000000002
+reklamasi,0.5
+rekognisi,0.5
+rekonsiliasi,0.45
+rekonstruksi,0.5
+rekreasi,0.5
+reksa,0.3
+rektifikasi,0.1
+rela,0.23333333333333334
+relaksasi,0.5
+relevan,0.5
+religi,0.1
+religiositas,0.3
+rembuk,0.3
+rembukan,0.3
+renang,0.1
+rendah hati,0.16666666666666666
+rengkuh,0.1
+rengkuhan,0.1
+renovasi,0.45
+reparasi,0.3
+reply,0.2
+reporter,0.5
+reproduksi,0.25
+reputasi,0.2
+resam,0.3
+resep,0.3
+reseptor,0.2
+resistif,0.5
+resmi,0.18333333333333335
+resolusi,0.3
+respon,0.2
+respons,0.3
+responsif,0.5
+restitusi,0.5
+restoratif,0.5
+reuni,0.5
+revolusioner,0.23333333333333334
+rezeki,0.3
+ria,0.05000000000000002
+riah,0.3
+riam,0.5
+riang,0.4
+rias,0.3
+riil,0.4
+rilis,0.3
+rimba,0.3
+rinai,0.1
+ringan,0.05
+ringan kepala,0.2
+ringan tangan,0.15000000000000002
+ringan tulang,0.5
+ringkas,0.024999999999999994
+rizki,0.4
+roadster,0.5
+roh,0.45
+rohaniah,0.2
+romantis,0.45
+romantisme,0.5
+ronda,0.2
+rotan,0.4
+roti panggang,0.5
+royalti,0.5
+rubrik,0.5
+ruji,0.3
+rumah,0.3
+rumah bermain,0.5
+rumah tangga,0.35
+rumput,0.3
+rumus,0.5
+runtut,0.3
+rupa,0.3
+rupawan,0.3
+rusuhan,0.1
+ruth,0.5
+rutin,0.5
+sabar,0.5
+sadar,0.19999999999999998
+sadu,0.3
+sah,0.3333333333333333
+sahabatku,0.3
+sahabatnya,0.3
+sahaja,0.2
+sahut,0.1
+sahutan,0.1
+sains,0.3
+saji,0.4
+sakelek,0.4
+saksi,0.1
+salam,0.5
+salamat,0.4
+salambersama,0.1
+salat,0.5
+saldo,0.2
+saleh,0.5
+salim,0.4
+saling,0.25
+salut,0.5
+sama,0.23333333333333334
+samad,0.3
+sambang,0.2
+sambatan,0.4
+sambung tangan,0.4
+sambungan tangan,0.4
+sambut,0.3
+sambutan,0.3
+sami,0.3
+samseng,0.3
+samun,0.3
+samurai,0.5
+sandaran,0.3
+sangat berharga,0.5
+sangat gembira,0.5
+sangat indah,0.5
+sangat luas,0.5
+sangat rapi,0.5
+sanggup,0.2
+sangkil,0.4
+sani,0.3
+sanitasi,0.5
+sanjung,0.2
+santai,0.1625
+santer,0.4
+santiran,0.3
+santo,0.5
+santun,0.23333333333333334
+santunan,0.04999999999999999
+saraf,0.5
+sarannya,0.1
+sarap,0.3
+sarapan,0.5
+sarjana,0.16666666666666666
+sarjana muda,0.5
+sarju,0.4
+saruk,0.4
+sastra,0.2
+satin,0.5
+satria,0.15000000000000002
+satu,0.09999999999999999
+saudara,0.25
+saudara laki-laki,0.5
+sauk,0.3
+sawala,0.3
+say,0.1
+sayang,0.16666666666666669
+sayid,0.09999999999999999
+searah,0.1
+sebab,0.04999999999999999
+sebaiknya,0.5
+sebandung,0.3
+sebelumnya,0.125
+sebenarnya,0.325
+sebetulnya,0.4
+sebukan,0.3
+secara harmonis,0.5
+secara kolektif,0.5
+secara mencolok,0.5
+secara mengejutkan,0.5
+secara pantas,0.5
+secepatnya,0.3
+sedang,0.125
+sedang belajar,0.5
+sedap,0.5
+sedeng,0.04999999999999999
+sedia,0.2
+seemak,0.3
+segar,0.4
+segeh,0.3
+segel,0.25
+segenap,0.2
+segera,0.03333333333333334
+sehat,0.22500000000000003
+seia,0.3
+seibu,0.3
+seimbang,0.5
+seindah,0.3
+sejadah,0.3
+sejati,0.3
+sejenak,0.1
+sekah,0.3
+sekali-kali,0.3
+sekar,0.5
+sekata,0.3
+sekering,0.5
+sekolah,0.3
+sekretariat,0.5
+seks,0.25
+sekutu,0.1
+sela,0.5
+selai,0.5
+selalu,0.25
+selamat,0.5
+selamatan,0.4
+selaras,0.3
+selawat,0.3
+selayaknya,0.3
+selenggara,0.3
+selengkapnya,0.1
+selera,0.3
+selesa,0.3
+selfie,0.2
+selingan,0.5
+seloroh,0.3
+semak-semak,0.3
+semakin,0.2
+semangat,0.26666666666666666
+semarak,0.3
+sembahyang,0.5
+sembahyangan,0.4
+sembir,0.4
+semboyan,0.2
+sembuh,0.3666666666666667
+semerbak,0.2
+sempena hati,0.4
+sempurna,0.16666666666666669
+semringah,0.4
+semu,0.3
+senang,0.19999999999999998
+senang sekali,0.5
+sendiri,0.1
+seneng,0.2
+seni,0.06666666666666665
+senioritas,0.5
+sensasional,0.5
+sensibel,0.2
+sensitif,0.1
+sensual,0.25
+sensualitas,0.5
+sentimentil,0.5
+sentosa,0.5
+senyum,0.19999999999999998
+senyuman,0.4
+senyumin,0.3
+senyumnya,0.3
+sepada,0.3
+sepak bola,0.25
+sepakat,0.45
+sepantar,0.1
+sepantasnya,0.2
+sepatu,0.3
+sepatutnya,0.35
+sepenuh hati,0.5
+seperti bangsawan,0.5
+seperti beludru,0.5
+seperti malaikat,0.5
+seragam,0.175
+seraya,0.4
+serbasama,0.3
+serbaserbi,0.3
+seremeh,0.3
+serempak,0.4
+serentak,0.3
+serep,0.2
+serikat,0.25
+sering,0.3
+sero,0.3
+serta,0.2
+serta-merta,0.3
+seru,0.16666666666666666
+serum,0.5
+serunda,0.2
+serundai,0.2
+servis,0.3
+sesaji,0.4
+sesama,0.5
+sesambat,0.1
+sesepuh,0.5
+sesuai,0.32857142857142857
+sesungguhnya,0.45
+setara,0.2
+setia,0.04999999999999999
+setir,0.1
+setuju,0.15833333333333338
+setujuan,0.4
+sewajarnya,0.2
+shalat,0.4
+sharing,0.3
+shiawase,0.2
+sholat,0.5
+show,0.2
+siap,0.175
+sibuk,0.05000000000000002
+sigap,0.05000000000000002
+sikap,0.2
+silah,0.3
+silahkan,0.3
+silakan,0.1
+silang pendapat,0.3
+silaturahim,0.4
+silir-semilir,0.2
+silsilah,0.25
+simbok,0.2
+simbolis,0.5
+simetri,0.5
+simetris,0.275
+simfoni,0.5
+simpat,0.4
+simpati,0.5
+simpatik,0.09999999999999998
+simpatisan,0.3
+simpel,0.3
+simple,0.3
+simpleks,0.3
+simplistis,0.3
+simpul,0.3
+sinergis,0.5
+sing,0.5
+singa,0.5
+single,0.3
+singsing,0.3
+sinkron,0.1
+sinkronisasi,0.3
+sinode,0.5
+sintal,0.3
+sintetis,0.3
+sinuhun,0.4
+siph,0.2
+sipil,0.16666666666666666
+siswa,0.3
+siuman,0.3
+size,0.1
+sketsa,0.2
+skor,0.25
+slow,0.1
+smartphone,0.1
+smga,0.1
+smpai,0.1
+snapback,0.2
+sob,0.2
+sobat,0.16666666666666666
+sohib,0.3
+sohor,0.15000000000000002
+sokong,0.3
+solah,0.4
+solat,0.1
+soleha,0.3
+solo,0.2
+solusi,0.3
+solusinya,0.3
+solvabilitas,0.5
+sonar,0.5
+sonata,0.5
+sonet,0.5
+sopan,0.5
+sorongan,0.4
+sosial,0.325
+sosialistis,0.3
+sosialita,0.5
+spa,0.5
+spaniel,0.5
+sparing,0.3
+special,0.4
+spesial,0.45
+spesialis,0.4
+spesialisasi,0.3
+spesies,0.5
+spesifikasi,0.3
+sponsor,0.35
+spontan,0.3
+sporadis,0.2
+sportif,0.3
+sput,0.1
+sreg,0.2
+sregep,0.4
+stabil,0.275
+stabilitas,0.4
+staccato,0.5
+stamina,0.3
+standardisasi,0.2
+statis,0.05000000000000002
+statistik,0.1
+status,0.5
+strategis,0.5
+streng,0.1
+struktur,0.4
+studi,0.4
+stupa,0.4
+suam-suam kuku,0.4
+suapan,0.4
+suara,0.0888888888888889
+suara halus,0.4
+suasana,0.4
+suasana (hati),0.1
+suasana hati,0.1
+sublim,0.3
+sublimasi,0.5
+substansi,0.1
+substansial,0.1
+substantif,0.5
+subur,0.1625
+suci,0.21111111111111114
+sudah,0.04999999999999999
+suguh,0.2
+suguhan,0.4
+suka,0.09999999999999999
+suka berteman,0.5
+suka cita,0.15000000000000002
+suka damai,0.5
+suka-suka,0.3
+sukacita,0.35
+sukarela,0.1
+sukarelawan,0.25
+sukat,0.3
+sukses,0.3
+sulung,0.5
+sumbangan,0.5
+sumber daya,0.5
+sumber hidup,0.5
+sumber keuntungan,0.5
+sumbu,0.2
+sumpah,0.125
+sumringah,0.4
+sumsum,0.5
+sunan,0.4
+sungguh,0.26666666666666666
+sungguh-sungguh,0.35
+suntuk,0.04999999999999999
+sup krim,0.5
+super,0.04999999999999999
+superior,0.4
+superstar,0.5
+suplemen,0.5
+suporter,0.3
+support,0.4
+surat kabar,0.5
+surat tanah,0.3
+surau,0.2
+surga,0.5
+surgawi,0.5
+suri teladan,0.5
+survei,0.25
+sutra,0.5
+suvenir,0.4
+swagriya,0.2
+sweet,0.3
+syarikat,0.3
+syg,0.3
+syukur,0.5
+syukuri,0.3
+taat,0.23333333333333334
+tabah,0.5
+tabah hati,0.5
+tabe,0.3
+tablig,0.1
+tabung,0.3
+tabung bambu,0.3
+tabungan,0.16666666666666669
+tafsir,0.2
+tahan air,0.5
+tahan api,0.5
+tahan cuaca,0.5
+tahan karat,0.5
+tahan lama,0.3
+tahan lasak,0.4
+tahu aturan,0.4
+tajali,0.3
+tajam,0.06666666666666668
+tajam mata,0.05
+tajam otak,0.4
+tajam pikiran,0.4
+tak ada taranya,0.5
+tak bercacat,0.5
+tak kenal takut,0.5
+tak segan,0.05
+tak terbantahkan,0.25
+tak terbatas,0.2
+tak terhapuskan,0.5
+tak terlukiskan,0.25
+tak terpisahkan,0.25
+tak terputus,0.5
+tak tertandingi,0.5
+takar,0.3
+takhta,0.5
+takjub,0.15000000000000002
+takrif,0.3
+taksi,0.25
+taksir,0.09999999999999999
+taksiran,0.5
+takyin,0.3
+takzim,0.3
+talen,0.2
+talenta,0.4
+taman,0.1
+tambah,0.3
+tambahan,0.3
+tampilan,0.1
+tanda jasa,0.4
+tanda mata,0.2
+tanda-tanda,0.4
+tanding,0.2
+tangan,0.1
+tanganan,0.3
+tanggap,0.3
+tanggapan,0.3
+tangguh,0.26666666666666666
+tanggulang,0.2
+tangkisan,0.3
+tangkul,0.3
+tangsel,0.3
+tanpa cedera,0.5
+tanpa pertumpahan darah,0.5
+tante,0.5
+tanya jawab,0.3
+tapa,0.2
+tara,0.2
+taraf,0.04999999999999999
+tari,0.1
+tarik,0.2
+tarik hati,0.09999999999999999
+taruh,0.4
+taruh hati,0.3
+taruhan,0.3
+tasamuh,0.5
+tata,0.04999999999999999
+tata krama,0.25
+tata tertib,0.3
+tatap,0.1
+tawa,0.5
+tawakal,0.3
+tawar-menawar,0.25
+tawarikh,0.3
+tayang,0.3
+tayib,0.05
+tayibah,0.05
+team,0.1
+tebak,0.04999999999999999
+tedas,0.3
+tegak lurus,0.25
+tegang,0.11666666666666668
+tegap,0.3
+teguh,0.25
+teguh batin,0.3
+teguh hati,0.3
+teguk,0.2
+teh,0.1
+teja,0.4
+tekad,0.05000000000000002
+tekanan jiwa,0.4
+teknologi,0.5
+tekun,0.45
+tela,0.3
+teladan,0.2
+telaten,0.4
+teliti,0.125
+teluk kecil,0.5
+telungkup,0.1
+teman,0.5
+tembus,0.3
+temennya,0.1
+tempat berlindung,0.25
+tempat bermain,0.5
+tempat tidur,0.16666666666666666
+tempo-tempo,0.3
+tempoh,0.3
+temu,0.2
+tenaga,0.3
+tenaga kerja,0.4
+tenang,0.22857142857142862
+tengah,0.1625
+tenggang rasa,0.5
+tengkuluk,0.3
+tengkurap,0.2
+tentara,0.25
+teoretis,0.4
+tepa salira,0.5
+tepat,0.5
+tepat guna,0.4
+tepat waktu,0.3333333333333333
+tepercaya,0.3
+tepuk,0.5
+terakreditasi,0.5
+terala,0.3
+teramat,0.25
+terampil,0.11666666666666668
+teranggar-anggar,0.3
+teranyar,0.4
+terapeutik,0.5
+terapi,0.5
+teraso,0.4
+teratas,0.3
+terawat,0.5
+terbaca,0.5
+terbaik,0.5
+terbangun,0.3
+terbaring,0.2
+terbaru,0.4
+terbatas,0.04999999999999999
+terbayan,0.3
+terbayang,0.3
+terbayang-bayang,0.3
+terbelenggu,0.3
+terbiasa,0.3
+terbit selera,0.3
+terbuka mata,0.4
+terbukti,0.3
+terbukti benar,0.5
+tercapai,0.3
+tercermin,0.3
+tercinta,0.4
+terdaftar,0.1
+terdahulu,0.4
+terdamping,0.1
+terdekat,0.1
+terencana,0.2
+tergantung,0.3
+tergelak,0.4
+tergeleng-geleng,0.05000000000000002
+tergila-gila,0.3
+terhibur,0.5
+terhormat,0.5
+terikat,0.3
+terima,0.2
+terima kasih,0.5
+terimakasih,0.5
+terimaksih,0.4
+terindah,0.5
+terinspirasi,0.5
+terjadi,0.3
+terjadinya,0.3
+terjaga,0.2
+terjajah,0.3
+terjamin,0.5
+terjemahan,0.3
+terka,0.09999999999999999
+terkadang,0.3
+terkadang-kadang,0.3
+terkapah-kapah,0.04999999999999999
+terkemuka,0.41666666666666663
+terkenal,0.4642857142857143
+terkesima,0.15000000000000002
+terkilan,0.3
+terkini,0.3
+terkoneksi,0.3
+terlibat,0.024999999999999994
+terlindung,0.4
+termasuk,0.1
+termasyhur,0.4
+termulia,0.3
+terorganisir,0.5
+terpegah,0.5
+terpelajar,0.325
+terpelihara,0.4
+terpenting,0.5
+terpercaya,0.5
+terperinci,0.3
+terpesona,0.14166666666666666
+terpilih,0.5
+terpuji,0.45
+terpukau,0.05
+tersadar,0.3
+tersaji,0.4
+tersampai,0.2
+tersebar luas,0.5
+tersedia,0.4
+terselenggaranya,0.3
+tersem-bunyi,0.5
+tersendat,0.4
+tersenyum,0.45
+terserap,0.5
+tersohor,0.2
+tersuguh,0.2
+tersungging,0.5
+tersusun,0.5
+tertarik,0.35
+tertawa,0.5
+tertawa kecil,0.45
+tertib,0.23333333333333334
+tertinggi,0.4
+terurus,0.4
+terus mata,0.5
+terus-menerus,0.4
+terutama,0.4
+testimoni,0.3
+tetangga,0.5
+tetap,0.15000000000000002
+tetap hati,0.09999999999999999
+thank,0.4
+thanks,0.3
+tiang pancang,0.3
+tiara,0.3
+tidak berbahaya,0.5
+tidak bias,0.5
+tidak bisa dihancurkan,0.5
+tidak bisa dipecahkan,0.5
+tidak dapat dicabut,0.5
+tidak dapat direduksi,0.5
+tidak dibatasi,0.5
+tidak diragukan lagi,0.3333333333333333
+tidak egois,0.5
+tidak perlu dipertanyakan lagi,0.5
+tidak terinfeksi,0.5
+tidur sebentar,0.25
+tikar,0.3
+timba ilmu,0.4
+timbalan,0.1
+timpal,0.2
+tindakan,0.275
+tinggalan,0.4
+tinggi,0.0611111111111111
+tingkah laku,0.1
+tingkat,0.175
+tinjauan ke masa depan,0.5
+tip,0.05000000000000002
+tips,0.4
+tiris,0.3
+tiruan,0.3
+titip api,0.09999999999999999
+tlg,0.3
+tokcer,0.4
+toko,0.16666666666666666
+toko buku,0.25
+tokok,0.3
+tolakan,0.4
+toleran,0.5
+toleransi,0.25
+tolong,0.04999999999999999
+tongkeng,0.5
+tongkrong,0.1
+top,0.5
+toreh,0.1
+tq,0.4
+traktat,0.3
+transaksi,0.4
+transendensi,0.5
+transendental,0.3
+transparan,0.3
+transparansi,0.2
+trendi,0.3
+trengginas,0.5
+tresna,0.05
+trigonometri,0.25
+trima,0.1
+trimakasih,0.4
+trims,0.4
+tugas,0.033333333333333326
+tuhan,0.3
+tujuan,0.16666666666666666
+tukang,0.06666666666666665
+tukang panir,0.5
+tukang sortir,0.5
+tukar akal,0.1
+tukar cincin,0.3
+tukar pikir,0.3
+tukar pikiran,0.3
+tulang punggung,0.1
+tulen,0.3
+tulus,0.45
+tulus hati,0.15000000000000002
+tulus ikhlas,0.5
+tumbuh,0.25
+tunai,0.3
+tunang,0.3
+tunas,0.04999999999999999
+tunggak,0.3
+tunggu dunia,0.2
+tungkak,0.4
+tunjang,0.3
+tuntas,0.2
+tuntun,0.04999999999999999
+tuntut ilmu,0.4
+tutuk,0.3
+uang,0.125
+uang lelah,0.2
+uang rokok,0.2
+uang tunai,0.5
+ubin,0.16666666666666666
+ucapan selamat,0.5
+ucapan syukur,0.5
+ugahari,0.3
+ugal-ugalan,0.04999999999999999
+uji,0.1
+ujian,0.1
+ukur,0.3
+ulama,0.3
+ulasan,0.3
+ulet,0.5
+uluran,0.3
+uluran tangan,0.4
+umat,0.3
+umi,0.4
+umum,0.13333333333333333
+umur,0.1
+umur panjang,0.5
+unda,0.3
+undang,0.2
+undangan,0.3
+unek-unek,0.2
+unggul,0.5
+unggulan,0.5
+unik,0.5
+untung,0.09999999999999999
+upa,0.2
+upa-,0.4
+upacara,0.125
+upah,0.09999999999999999
+upaya,0.06666666666666665
+upeti,0.5
+ura-ura,0.4
+uraian,0.3
+usai,0.04999999999999999
+usik,0.1
+ustadz,0.3
+ustazah,0.3
+utama,0.5
+utas,0.4
+utopia,0.2
+utopis,0.5
+utuh,0.5
+vak,0.3
+vakansi,0.3
+vaksin,0.5
+varia,0.3
+ventura,0.3
+verbal,0.1
+verifikasi,0.5
+veteran,0.5
+vikaris,0.5
+vila,0.3
+visi,0.2
+visioner,0.5
+vista,0.3
+vital,0.04999999999999999
+vitalitas,0.3
+vote,0.1
+voucher,0.3
+wadak,0.3
+wagu,0.4
+wahyu,0.4
+wali,0.25
+walikota,0.5
+wangi,0.4
+wanita cantik,0.5
+wantah,0.3
+warga negara,0.5
+waris,0.04999999999999999
+warisan,0.2
+warok,0.3
+wasiat,0.4
+waspada,0.125
+watak,0.3
+wawancara,0.3
+wedel,0.2
+wekel,0.4
+welas,0.05000000000000002
+welcome,0.4
+wewenang,0.2
+widita,0.4
+widyaiswara,0.3
+wiladah,0.3
+wirid,0.4
+wisma,0.3
+wkwkwk,0.3
+wot,0.5
+wujud,0.2
+ya,0.4
+yaaaa,0.1
+yahud,0.4
+yakin,0.3
+yamtuan,0.4
+yang saling melengkapi,0.5
+yank,0.2
+yasalamualaika,0.3
+yes,0.3
+yg dipertuan,0.05000000000000002
+yg menerangkan,0.5
+yg mungkin berubah,0.5
+yg tak ada bandingannya,0.5
+yoga,0.1
+yuk,0.4
+yukk,0.4
+yuuk,0.4
+zaim,0.3
+zakelek,0.4
+zakiah,0.4
+zikir,0.4
+zuhud,0.05
